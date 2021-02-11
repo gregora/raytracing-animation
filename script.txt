@@ -1,0 +1,7 @@
+camera-move 0 0 2
+sky-color 0.1 0.8 1
+render
+camera-move 0 0 200
+light-move 0 400 0 200
+camera-direction 10 0 30
+render

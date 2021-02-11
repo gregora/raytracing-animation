@@ -1,0 +1,5 @@
+width 1920
+height 1080
+save local/
+load scenes/scene2.scene
+spp 1
