@@ -774,7 +774,7 @@ std::vector<std::string> SplitString(std::string string, std::string split_by){
   }
 
   ret.push_back(string.substr(0, string.find(split_by)));
-
+  
   return ret;
 
 }

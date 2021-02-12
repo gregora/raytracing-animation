@@ -1,0 +1,721 @@
+sky-color 0.2 0.8 1
+camera-direction 0 -20 0
+render
+camera-direction 1 -20 0
+render
+camera-direction 2 -20 0
+render
+camera-direction 3 -20 0
+render
+camera-direction 4 -20 0
+render
+camera-direction 5 -20 0
+render
+camera-direction 6 -20 0
+render
+camera-direction 7 -20 0
+render
+camera-direction 8 -20 0
+render
+camera-direction 9 -20 0
+render
+camera-direction 10 -20 0
+render
+camera-direction 11 -20 0
+render
+camera-direction 12 -20 0
+render
+camera-direction 13 -20 0
+render
+camera-direction 14 -20 0
+render
+camera-direction 15 -20 0
+render
+camera-direction 16 -20 0
+render
+camera-direction 17 -20 0
+render
+camera-direction 18 -20 0
+render
+camera-direction 19 -20 0
+render
+camera-direction 20 -20 0
+render
+camera-direction 21 -20 0
+render
+camera-direction 22 -20 0
+render
+camera-direction 23 -20 0
+render
+camera-direction 24 -20 0
+render
+camera-direction 25 -20 0
+render
+camera-direction 26 -20 0
+render
+camera-direction 27 -20 0
+render
+camera-direction 28 -20 0
+render
+camera-direction 29 -20 0
+render
+camera-direction 30 -20 0
+render
+camera-direction 31 -20 0
+render
+camera-direction 32 -20 0
+render
+camera-direction 33 -20 0
+render
+camera-direction 34 -20 0
+render
+camera-direction 35 -20 0
+render
+camera-direction 36 -20 0
+render
+camera-direction 37 -20 0
+render
+camera-direction 38 -20 0
+render
+camera-direction 39 -20 0
+render
+camera-direction 40 -20 0
+render
+camera-direction 41 -20 0
+render
+camera-direction 42 -20 0
+render
+camera-direction 43 -20 0
+render
+camera-direction 44 -20 0
+render
+camera-direction 45 -20 0
+render
+camera-direction 46 -20 0
+render
+camera-direction 47 -20 0
+render
+camera-direction 48 -20 0
+render
+camera-direction 49 -20 0
+render
+camera-direction 50 -20 0
+render
+camera-direction 51 -20 0
+render
+camera-direction 52 -20 0
+render
+camera-direction 53 -20 0
+render
+camera-direction 54 -20 0
+render
+camera-direction 55 -20 0
+render
+camera-direction 56 -20 0
+render
+camera-direction 57 -20 0
+render
+camera-direction 58 -20 0
+render
+camera-direction 59 -20 0
+render
+camera-direction 60 -20 0
+render
+camera-direction 61 -20 0
+render
+camera-direction 62 -20 0
+render
+camera-direction 63 -20 0
+render
+camera-direction 64 -20 0
+render
+camera-direction 65 -20 0
+render
+camera-direction 66 -20 0
+render
+camera-direction 67 -20 0
+render
+camera-direction 68 -20 0
+render
+camera-direction 69 -20 0
+render
+camera-direction 70 -20 0
+render
+camera-direction 71 -20 0
+render
+camera-direction 72 -20 0
+render
+camera-direction 73 -20 0
+render
+camera-direction 74 -20 0
+render
+camera-direction 75 -20 0
+render
+camera-direction 76 -20 0
+render
+camera-direction 77 -20 0
+render
+camera-direction 78 -20 0
+render
+camera-direction 79 -20 0
+render
+camera-direction 80 -20 0
+render
+camera-direction 81 -20 0
+render
+camera-direction 82 -20 0
+render
+camera-direction 83 -20 0
+render
+camera-direction 84 -20 0
+render
+camera-direction 85 -20 0
+render
+camera-direction 86 -20 0
+render
+camera-direction 87 -20 0
+render
+camera-direction 88 -20 0
+render
+camera-direction 89 -20 0
+render
+camera-direction 90 -20 0
+render
+camera-direction 91 -20 0
+render
+camera-direction 92 -20 0
+render
+camera-direction 93 -20 0
+render
+camera-direction 94 -20 0
+render
+camera-direction 95 -20 0
+render
+camera-direction 96 -20 0
+render
+camera-direction 97 -20 0
+render
+camera-direction 98 -20 0
+render
+camera-direction 99 -20 0
+render
+camera-direction 100 -20 0
+render
+camera-direction 101 -20 0
+render
+camera-direction 102 -20 0
+render
+camera-direction 103 -20 0
+render
+camera-direction 104 -20 0
+render
+camera-direction 105 -20 0
+render
+camera-direction 106 -20 0
+render
+camera-direction 107 -20 0
+render
+camera-direction 108 -20 0
+render
+camera-direction 109 -20 0
+render
+camera-direction 110 -20 0
+render
+camera-direction 111 -20 0
+render
+camera-direction 112 -20 0
+render
+camera-direction 113 -20 0
+render
+camera-direction 114 -20 0
+render
+camera-direction 115 -20 0
+render
+camera-direction 116 -20 0
+render
+camera-direction 117 -20 0
+render
+camera-direction 118 -20 0
+render
+camera-direction 119 -20 0
+render
+camera-direction 120 -20 0
+render
+camera-direction 121 -20 0
+render
+camera-direction 122 -20 0
+render
+camera-direction 123 -20 0
+render
+camera-direction 124 -20 0
+render
+camera-direction 125 -20 0
+render
+camera-direction 126 -20 0
+render
+camera-direction 127 -20 0
+render
+camera-direction 128 -20 0
+render
+camera-direction 129 -20 0
+render
+camera-direction 130 -20 0
+render
+camera-direction 131 -20 0
+render
+camera-direction 132 -20 0
+render
+camera-direction 133 -20 0
+render
+camera-direction 134 -20 0
+render
+camera-direction 135 -20 0
+render
+camera-direction 136 -20 0
+render
+camera-direction 137 -20 0
+render
+camera-direction 138 -20 0
+render
+camera-direction 139 -20 0
+render
+camera-direction 140 -20 0
+render
+camera-direction 141 -20 0
+render
+camera-direction 142 -20 0
+render
+camera-direction 143 -20 0
+render
+camera-direction 144 -20 0
+render
+camera-direction 145 -20 0
+render
+camera-direction 146 -20 0
+render
+camera-direction 147 -20 0
+render
+camera-direction 148 -20 0
+render
+camera-direction 149 -20 0
+render
+camera-direction 150 -20 0
+render
+camera-direction 151 -20 0
+render
+camera-direction 152 -20 0
+render
+camera-direction 153 -20 0
+render
+camera-direction 154 -20 0
+render
+camera-direction 155 -20 0
+render
+camera-direction 156 -20 0
+render
+camera-direction 157 -20 0
+render
+camera-direction 158 -20 0
+render
+camera-direction 159 -20 0
+render
+camera-direction 160 -20 0
+render
+camera-direction 161 -20 0
+render
+camera-direction 162 -20 0
+render
+camera-direction 163 -20 0
+render
+camera-direction 164 -20 0
+render
+camera-direction 165 -20 0
+render
+camera-direction 166 -20 0
+render
+camera-direction 167 -20 0
+render
+camera-direction 168 -20 0
+render
+camera-direction 169 -20 0
+render
+camera-direction 170 -20 0
+render
+camera-direction 171 -20 0
+render
+camera-direction 172 -20 0
+render
+camera-direction 173 -20 0
+render
+camera-direction 174 -20 0
+render
+camera-direction 175 -20 0
+render
+camera-direction 176 -20 0
+render
+camera-direction 177 -20 0
+render
+camera-direction 178 -20 0
+render
+camera-direction 179 -20 0
+render
+camera-direction 180 -20 0
+render
+camera-direction 181 -20 0
+render
+camera-direction 182 -20 0
+render
+camera-direction 183 -20 0
+render
+camera-direction 184 -20 0
+render
+camera-direction 185 -20 0
+render
+camera-direction 186 -20 0
+render
+camera-direction 187 -20 0
+render
+camera-direction 188 -20 0
+render
+camera-direction 189 -20 0
+render
+camera-direction 190 -20 0
+render
+camera-direction 191 -20 0
+render
+camera-direction 192 -20 0
+render
+camera-direction 193 -20 0
+render
+camera-direction 194 -20 0
+render
+camera-direction 195 -20 0
+render
+camera-direction 196 -20 0
+render
+camera-direction 197 -20 0
+render
+camera-direction 198 -20 0
+render
+camera-direction 199 -20 0
+render
+camera-direction 200 -20 0
+render
+camera-direction 201 -20 0
+render
+camera-direction 202 -20 0
+render
+camera-direction 203 -20 0
+render
+camera-direction 204 -20 0
+render
+camera-direction 205 -20 0
+render
+camera-direction 206 -20 0
+render
+camera-direction 207 -20 0
+render
+camera-direction 208 -20 0
+render
+camera-direction 209 -20 0
+render
+camera-direction 210 -20 0
+render
+camera-direction 211 -20 0
+render
+camera-direction 212 -20 0
+render
+camera-direction 213 -20 0
+render
+camera-direction 214 -20 0
+render
+camera-direction 215 -20 0
+render
+camera-direction 216 -20 0
+render
+camera-direction 217 -20 0
+render
+camera-direction 218 -20 0
+render
+camera-direction 219 -20 0
+render
+camera-direction 220 -20 0
+render
+camera-direction 221 -20 0
+render
+camera-direction 222 -20 0
+render
+camera-direction 223 -20 0
+render
+camera-direction 224 -20 0
+render
+camera-direction 225 -20 0
+render
+camera-direction 226 -20 0
+render
+camera-direction 227 -20 0
+render
+camera-direction 228 -20 0
+render
+camera-direction 229 -20 0
+render
+camera-direction 230 -20 0
+render
+camera-direction 231 -20 0
+render
+camera-direction 232 -20 0
+render
+camera-direction 233 -20 0
+render
+camera-direction 234 -20 0
+render
+camera-direction 235 -20 0
+render
+camera-direction 236 -20 0
+render
+camera-direction 237 -20 0
+render
+camera-direction 238 -20 0
+render
+camera-direction 239 -20 0
+render
+camera-direction 240 -20 0
+render
+camera-direction 241 -20 0
+render
+camera-direction 242 -20 0
+render
+camera-direction 243 -20 0
+render
+camera-direction 244 -20 0
+render
+camera-direction 245 -20 0
+render
+camera-direction 246 -20 0
+render
+camera-direction 247 -20 0
+render
+camera-direction 248 -20 0
+render
+camera-direction 249 -20 0
+render
+camera-direction 250 -20 0
+render
+camera-direction 251 -20 0
+render
+camera-direction 252 -20 0
+render
+camera-direction 253 -20 0
+render
+camera-direction 254 -20 0
+render
+camera-direction 255 -20 0
+render
+camera-direction 256 -20 0
+render
+camera-direction 257 -20 0
+render
+camera-direction 258 -20 0
+render
+camera-direction 259 -20 0
+render
+camera-direction 260 -20 0
+render
+camera-direction 261 -20 0
+render
+camera-direction 262 -20 0
+render
+camera-direction 263 -20 0
+render
+camera-direction 264 -20 0
+render
+camera-direction 265 -20 0
+render
+camera-direction 266 -20 0
+render
+camera-direction 267 -20 0
+render
+camera-direction 268 -20 0
+render
+camera-direction 269 -20 0
+render
+camera-direction 270 -20 0
+render
+camera-direction 271 -20 0
+render
+camera-direction 272 -20 0
+render
+camera-direction 273 -20 0
+render
+camera-direction 274 -20 0
+render
+camera-direction 275 -20 0
+render
+camera-direction 276 -20 0
+render
+camera-direction 277 -20 0
+render
+camera-direction 278 -20 0
+render
+camera-direction 279 -20 0
+render
+camera-direction 280 -20 0
+render
+camera-direction 281 -20 0
+render
+camera-direction 282 -20 0
+render
+camera-direction 283 -20 0
+render
+camera-direction 284 -20 0
+render
+camera-direction 285 -20 0
+render
+camera-direction 286 -20 0
+render
+camera-direction 287 -20 0
+render
+camera-direction 288 -20 0
+render
+camera-direction 289 -20 0
+render
+camera-direction 290 -20 0
+render
+camera-direction 291 -20 0
+render
+camera-direction 292 -20 0
+render
+camera-direction 293 -20 0
+render
+camera-direction 294 -20 0
+render
+camera-direction 295 -20 0
+render
+camera-direction 296 -20 0
+render
+camera-direction 297 -20 0
+render
+camera-direction 298 -20 0
+render
+camera-direction 299 -20 0
+render
+camera-direction 300 -20 0
+render
+camera-direction 301 -20 0
+render
+camera-direction 302 -20 0
+render
+camera-direction 303 -20 0
+render
+camera-direction 304 -20 0
+render
+camera-direction 305 -20 0
+render
+camera-direction 306 -20 0
+render
+camera-direction 307 -20 0
+render
+camera-direction 308 -20 0
+render
+camera-direction 309 -20 0
+render
+camera-direction 310 -20 0
+render
+camera-direction 311 -20 0
+render
+camera-direction 312 -20 0
+render
+camera-direction 313 -20 0
+render
+camera-direction 314 -20 0
+render
+camera-direction 315 -20 0
+render
+camera-direction 316 -20 0
+render
+camera-direction 317 -20 0
+render
+camera-direction 318 -20 0
+render
+camera-direction 319 -20 0
+render
+camera-direction 320 -20 0
+render
+camera-direction 321 -20 0
+render
+camera-direction 322 -20 0
+render
+camera-direction 323 -20 0
+render
+camera-direction 324 -20 0
+render
+camera-direction 325 -20 0
+render
+camera-direction 326 -20 0
+render
+camera-direction 327 -20 0
+render
+camera-direction 328 -20 0
+render
+camera-direction 329 -20 0
+render
+camera-direction 330 -20 0
+render
+camera-direction 331 -20 0
+render
+camera-direction 332 -20 0
+render
+camera-direction 333 -20 0
+render
+camera-direction 334 -20 0
+render
+camera-direction 335 -20 0
+render
+camera-direction 336 -20 0
+render
+camera-direction 337 -20 0
+render
+camera-direction 338 -20 0
+render
+camera-direction 339 -20 0
+render
+camera-direction 340 -20 0
+render
+camera-direction 341 -20 0
+render
+camera-direction 342 -20 0
+render
+camera-direction 343 -20 0
+render
+camera-direction 344 -20 0
+render
+camera-direction 345 -20 0
+render
+camera-direction 346 -20 0
+render
+camera-direction 347 -20 0
+render
+camera-direction 348 -20 0
+render
+camera-direction 349 -20 0
+render
+camera-direction 350 -20 0
+render
+camera-direction 351 -20 0
+render
+camera-direction 352 -20 0
+render
+camera-direction 353 -20 0
+render
+camera-direction 354 -20 0
+render
+camera-direction 355 -20 0
+render
+camera-direction 356 -20 0
+render
+camera-direction 357 -20 0
+render
+camera-direction 358 -20 0
+render
+camera-direction 359 -20 0
+render

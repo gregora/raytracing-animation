@@ -8,6 +8,10 @@ using namespace std;
 
 int main(){
 
+  string input;
+  cout << "Script file: ";
+  cin >> input;
+
   ifstream inFile;
   inFile.open("settings/settings"); //open the input file
   stringstream strStream;
@@ -42,9 +46,6 @@ int main(){
 
 
   ifstream inFile2;
-  string input;
-  cout << "Script file: ";
-  cin >> input;
   inFile2.open(input); //open the input file
   stringstream strStream2;
   strStream2 << inFile2.rdbuf(); //read the file
@@ -54,16 +55,21 @@ int main(){
 
   int frame_num = 1;
 
-  for(string sc_line : script_lines){
+  for(int i = 0; i < script_lines.size(); i++){
 
-    vector<string> command = SplitString(sc_line, " ");
+    vector<string> command = SplitString(script_lines[i], " ");
 
     if(command[0] == "render"){
+      cout << "Rendering frame " + to_string(frame_num) << endl;
       frame.Render();
       frame.SaveAsPng(save_path + to_string(frame_num) + ".png");
       frame_num++;
     }else if(command[0] == "camera-move"){
-      frame.camera_position = Vector(stof(command[1]), stof(command[2]), stof(command[3]));
+
+      frame.camera_position.x = stof(command[1]);
+      frame.camera_position.y = stof(command[2]);
+      frame.camera_position.z = stof(command[3]);
+
     }else if(command[0] == "camera-direction"){
       frame.yaw = stof(command[1]);
       frame.pitch = stof(command[2]);
@@ -73,8 +79,13 @@ int main(){
       frame.sky_green = stof(command[2]);
       frame.sky_blue = stof(command[3]);
     }else if(command[0] == "light-move"){
-      frame.light_sources[stoi(command[1])] -> position = Vector(stof(command[2]), stof(command[3]), stof(command[4]));
+      (frame.light_sources[stoi(command[1])] -> position).x = stof(command[2]);
+      (frame.light_sources[stoi(command[1])] -> position).y = stof(command[3]);
+      (frame.light_sources[stoi(command[1])] -> position).z = stof(command[4]);
     }
+
+    command = vector<string>();
+
   }
 
 }
