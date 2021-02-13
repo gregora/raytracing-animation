@@ -8,9 +8,7 @@ using namespace std;
 
 int main(){
 
-  string input;
-  cout << "Script file: ";
-  cin >> input;
+
 
   ifstream inFile;
   inFile.open("settings/settings"); //open the input file
@@ -20,8 +18,10 @@ int main(){
 
   vector<string> lines = SplitString(str, "\n");
 
+  float ambient_light = 0;
   int width, height, spp;
-  string load_path, save_path;
+  string load_path, save_path, script_path;
+  bool script_included = false;
 
   for(string line : lines){
     vector<string> words = SplitString(line, " ");
@@ -35,18 +35,29 @@ int main(){
       load_path = words[1];
     }else if(words[0] == "save"){
       save_path = words[1];
+    }else if(words[0] == "ambient-light"){
+      ambient_light = stof(words[1]);
+    }else if(words[0] == "script"){
+      script_path = words[1];
+      script_included = true;
     }
+  }
+
+  if(!script_included){
+    cout << "Script file: ";
+    cin >> script_path;
   }
 
 
   Frame frame(width, height);
   frame.spp = spp;
   frame.camera_position = Vector(0, 0, 2);
+  frame.ambient_light = ambient_light;
   frame.Load(load_path);
 
 
   ifstream inFile2;
-  inFile2.open(input); //open the input file
+  inFile2.open(script_path); //open the input file
   stringstream strStream2;
   strStream2 << inFile2.rdbuf(); //read the file
   string script = strStream2.str(); //str holds the content of the file
@@ -65,11 +76,9 @@ int main(){
       frame.SaveAsPng(save_path + to_string(frame_num) + ".png");
       frame_num++;
     }else if(command[0] == "camera-move"){
-
       frame.camera_position.x = stof(command[1]);
       frame.camera_position.y = stof(command[2]);
       frame.camera_position.z = stof(command[3]);
-
     }else if(command[0] == "camera-direction"){
       frame.yaw = stof(command[1]);
       frame.pitch = stof(command[2]);

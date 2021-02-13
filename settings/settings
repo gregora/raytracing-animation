@@ -1,5 +1,7 @@
 width 1920
 height 1080
+ambient-light 0.5
 save local/
 load scenes/scene2.scene
-spp 1
+spp 2
+script script2.txt
