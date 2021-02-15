@@ -1,1081 +1,3200 @@
+camera-direction 0. -20. 0.
+camera-move 0.0. -0.0. 200.
 sky-color 0.2 0.8 1
-camera-direction 0 -20 0
-camera-move 0.0 -0.0 200
 render
-camera-direction 1 -20 0
-camera-move 0.06846770814178171 -7.874598053029862 200
+camera-direction 1. -20. 0.
+camera-move 0.06846770814178171. -7.874598053029862. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 2 -20 0
-camera-move 0.2738499977800757 -15.746784571951284 200
+camera-direction 2. -20. 0.
+camera-move 0.2738499977800757. -15.746784571951284. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 3 -20 0
-camera-move 0.6160843708942707 -23.614148761169307 200
+camera-direction 3. -20. 0.
+camera-move 0.6160843708942707. -23.614148761169307. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 4 -20 0
-camera-move 1.0950666852479571 -31.47428130188974 200
+camera-direction 4. -20. 0.
+camera-move 1.0950666852479571. -31.47428130188974. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 5 -20 0
-camera-move 1.710651186079815 -39.32477508995424 200
+camera-direction 5. -20. 0.
+camera-move 1.710651186079815. -39.32477508995424. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 6 -20 0
-camera-move 2.4626505504567717 -47.16322597299712 200
+camera-direction 6. -20. 0.
+camera-move 2.4626505504567717. -47.16322597299712. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 7 -20 0
-camera-move 3.350835944276639 -54.98723348669823 200
+camera-direction 7. -20. 0.
+camera-move 3.350835944276639. -54.98723348669823. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 8 -20 0
-camera-move 4.374937091902325 -62.79440158990641 200
+camera-direction 8. -20. 0.
+camera-move 4.374937091902325. -62.79440158990641. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 9 -20 0
-camera-move 5.534642358407325 -70.58233939840835 200
+camera-direction 9. -20. 0.
+camera-move 5.534642358407325. -70.58233939840835. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 10 -20 0
-camera-move 6.8295988444062345 -78.34866191711818 200
+camera-direction 10. -20. 0.
+camera-move 6.8295988444062345. -78.34866191711818. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 11 -20 0
-camera-move 8.259412493442426 -86.0909907704636 200
+camera-direction 11. -20. 0.
+camera-move 8.259412493442426. -86.0909907704636. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 12 -20 0
-camera-move 9.823648211899751 -93.8069549307448 200
+camera-direction 12. -20. 0.
+camera-move 9.823648211899751. -93.8069549307448. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 13 -20 0
-camera-move 11.521830001402122 -101.49419144424317 200
+camera-direction 13. -20. 0.
+camera-move 11.521830001402122. -101.49419144424317. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 14 -20 0
-camera-move 13.353441103659975 -109.15034615485743 200
+camera-direction 14. -20. 0.
+camera-move 13.353441103659975. -109.15034615485743. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 15 -20 0
-camera-move 15.317924157720597 -116.77307442504542 200
+camera-direction 15. -20. 0.
+camera-move 15.317924157720597. -116.77307442504542. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 16 -20 0
-camera-move 17.414681369573316 -124.36004185385117 200
+camera-direction 16. -20. 0.
+camera-move 17.414681369573316. -124.36004185385117. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 17 -20 0
-camera-move 19.643074694058953 -131.90892499179694 200
+camera-direction 17. -20. 0.
+camera-move 19.643074694058953. -131.90892499179694. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 18 -20 0
-camera-move 22.002426029027276 -139.4174120524213 200
+camera-direction 18. -20. 0.
+camera-move 22.002426029027276. -139.4174120524213. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 19 -20 0
-camera-move 24.492017421684636 -146.8832036202458 200
+camera-direction 19. -20. 0.
+camera-move 24.492017421684636. -146.8832036202458. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 20 -20 0
-camera-move 27.111091287067154 -154.3040133549531 200
+camera-direction 20. -20. 0.
+camera-move 27.111091287067154. -154.3040133549531. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 21 -20 0
-camera-move 29.858850638574722 -161.67756869156048 200
+camera-direction 21. -20. 0.
+camera-move 29.858850638574722. -161.67756869156048. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 22 -20 0
-camera-move 32.734459330494815 -169.00161153637555 200
+camera-direction 22. -20. 0.
+camera-move 32.734459330494815. -169.00161153637555. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 23 -20 0
-camera-move 35.737042312442384 -176.2738989585193 200
+camera-direction 23. -20. 0.
+camera-move 35.737042312442384. -176.2738989585193. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 24 -20 0
-camera-move 38.86568589563831 -183.49220387680657 200
+camera-direction 24. -20. 0.
+camera-move 38.86568589563831. -183.49220387680657. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 25 -20 0
-camera-move 42.119438030946014 -190.6543157417721 200
+camera-direction 25. -20. 0.
+camera-move 42.119438030946014. -190.6543157417721. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 26 -20 0
-camera-move 45.497308598580844 -197.75804121263394 200
+camera-direction 26. -20. 0.
+camera-move 45.497308598580844. -197.75804121263394. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 27 -20 0
-camera-move 48.99826970940421 -204.8012048289871 200
+camera-direction 27. -20. 0.
+camera-move 48.99826970940421. -204.8012048289871. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 28 -20 0
-camera-move 52.62125601771146 -211.7816496770211 200
+camera-direction 28. -20. 0.
+camera-move 52.62125601771146. -211.7816496770211. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 29 -20 0
-camera-move 56.365165045417484 -218.69723805005816 200
+camera-direction 29. -20. 0.
+camera-move 56.365165045417484. -218.69723805005816. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 30 -20 0
-camera-move 60.228857517541655 -225.54585210320906 200
+camera-direction 30. -20. 0.
+camera-move 60.228857517541655. -225.54585210320906. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 31 -20 0
-camera-move 64.2111577088906 -232.32539450194645 200
+camera-direction 31. -20. 0.
+camera-move 64.2111577088906. -232.32539450194645. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 32 -20 0
-camera-move 68.31085380183214 -239.03378906439752 200
+camera-direction 32. -20. 0.
+camera-move 68.31085380183214. -239.03378906439752. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 33 -20 0
-camera-move 72.52669825505262 -245.66898139715815 200
+camera-direction 33. -20. 0.
+camera-move 72.52669825505262. -245.66898139715815. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 34 -20 0
-camera-move 76.85740818318504 -252.22893952443488 200
+camera-direction 34. -20. 0.
+camera-move 76.85740818318504. -252.22893952443488. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 35 -20 0
-camera-move 81.30166574719203 -258.71165451032186 200
+camera-direction 35. -20. 0.
+camera-move 81.30166574719203. -258.71165451032186. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 36 -20 0
-camera-move 85.85811855538549 -265.11514107402127 200
+camera-direction 36. -20. 0.
+camera-move 85.85811855538549. -265.11514107402127. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 37 -20 0
-camera-move 90.52538007496094 -271.4374381978207 200
+camera-direction 37. -20. 0.
+camera-move 90.52538007496094. -271.4374381978207. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 38 -20 0
-camera-move 95.30203005392036 -277.676609727639 200
+camera-direction 38. -20. 0.
+camera-move 95.30203005392036. -277.676609727639. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 39 -20 0
-camera-move 100.18661495325631 -283.8307449659584 200
+camera-direction 39. -20. 0.
+camera-move 100.18661495325631. -283.8307449659584. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 40 -20 0
-camera-move 105.17764838926553 -289.897959256961 200
+camera-direction 40. -20. 0.
+camera-move 105.17764838926553. -289.897959256961. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 41 -20 0
-camera-move 110.2736115858562 -295.8763945636895 200
+camera-direction 41. -20. 0.
+camera-move 110.2736115858562. -295.8763945636895. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 42 -20 0
-camera-move 115.47295383671349 -301.76422003705665 200
+camera-direction 42. -20. 0.
+camera-move 115.47295383671349. -301.76422003705665. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 43 -20 0
-camera-move 120.77409297718077 -307.55963257652877 200
+camera-direction 43. -20. 0.
+camera-move 120.77409297718077. -307.55963257652877. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 44 -20 0
-camera-move 126.17541586571349 -313.2608573823105 200
+camera-direction 44. -20. 0.
+camera-move 126.17541586571349. -313.2608573823105. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 45 -20 0
-camera-move 131.67527887476012 -318.8661484988641 200
+camera-direction 45. -20. 0.
+camera-move 131.67527887476012. -318.8661484988641. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 46 -20 0
-camera-move 137.2720083909192 -324.37378934959435 200
+camera-direction 46. -20. 0.
+camera-move 137.2720083909192. -324.37378934959435. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 47 -20 0
-camera-move 142.96390132422175 -329.78209326253636 200
+camera-direction 47. -20. 0.
+camera-move 142.96390132422175. -329.78209326253636. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 48 -20 0
-camera-move 148.74922562638244 -335.0894039868867 200
+camera-direction 48. -20. 0.
+camera-move 148.74922562638244. -335.0894039868867. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 49 -20 0
-camera-move 154.62622081786446 -340.29409620021596 200
+camera-direction 49. -20. 0.
+camera-move 154.62622081786446. -340.29409620021596. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 50 -20 0
-camera-move 160.59309852359434 -345.39457600621216 200
+camera-direction 50. -20. 0.
+camera-move 160.59309852359434. -345.39457600621216. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 51 -20 0
-camera-move 166.64804301716646 -350.3892814227984 200
+camera-direction 51. -20. 0.
+camera-move 166.64804301716646. -350.3892814227984. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 52 -20 0
-camera-move 172.78921177337008 -355.27668286047765 200
+camera-direction 52. -20. 0.
+camera-move 172.78921177337008. -355.27668286047765. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 53 -20 0
-camera-move 179.0147360288717 -360.0552835907583 200
+camera-direction 53. -20. 0.
+camera-move 179.0147360288717. -360.0552835907583. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 54 -20 0
-camera-move 185.32272135088124 -364.7236202045143 200
+camera-direction 54. -20. 0.
+camera-move 185.32272135088124. -364.7236202045143. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 55 -20 0
-camera-move 191.71124821362991 -369.2802630601443 200
+camera-direction 55. -20. 0.
+camera-move 191.71124821362991. -369.2802630601443. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 56 -20 0
-camera-move 198.17837258248352 -373.7238167213867 200
+camera-direction 56. -20. 0.
+camera-move 198.17837258248352. -373.7238167213867. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 57 -20 0
-camera-move 204.72212650551407 -378.0529203846623 200
+camera-direction 57. -20. 0.
+camera-move 204.72212650551407. -378.0529203846623. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 58 -20 0
-camera-move 211.34051871234922 -382.2662482958089 200
+camera-direction 58. -20. 0.
+camera-move 211.34051871234922. -382.2662482958089. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 59 -20 0
-camera-move 218.03153522011797 -386.36251015608394 200
+camera-direction 59. -20. 0.
+camera-move 218.03153522011797. -386.36251015608394. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 60 -20 0
-camera-move 224.79313994630738 -390.34045151730766 200
+camera-direction 60. -20. 0.
+camera-move 224.79313994630738. -390.34045151730766. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 61 -20 0
-camera-move 231.6232753283443 -394.1988541660284 200
+camera-direction 61. -20. 0.
+camera-move 231.6232753283443. -394.1988541660284. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 62 -20 0
-camera-move 238.51986294971346 -397.9365364965911 200
+camera-direction 62. -20. 0.
+camera-move 238.51986294971346. -397.9365364965911. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 63 -20 0
-camera-move 245.48080417242198 -401.55235387299456 200
+camera-direction 63. -20. 0.
+camera-move 245.48080417242198. -401.55235387299456. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 64 -20 0
-camera-move 252.5039807756162 -405.04519897942725 200
+camera-direction 64. -20. 0.
+camera-move 252.5039807756162. -405.04519897942725. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 65 -20 0
-camera-move 259.587255600159 -408.4140021593743 200
+camera-direction 65. -20. 0.
+camera-move 259.587255600159. -408.4140021593743. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 66 -20 0
-camera-move 266.7284731989686 -411.65773174319133 200
+camera-direction 66. -20. 0.
+camera-move 266.7284731989686. -411.65773174319133. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 67 -20 0
-camera-move 273.9254604929235 -414.7753943640452 200
+camera-direction 67. -20. 0.
+camera-move 273.9254604929235. -414.7753943640452. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 68 -20 0
-camera-move 281.17602743213257 -417.766035262125 200
+camera-direction 68. -20. 0.
+camera-move 281.17602743213257. -417.766035262125. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 69 -20 0
-camera-move 288.4779676623687 -420.62873857702954 200
+camera-direction 69. -20. 0.
+camera-move 288.4779676623687. -420.62873857702954. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 70 -20 0
-camera-move 295.8290591964652 -423.3626276282425 200
+camera-direction 70. -20. 0.
+camera-move 295.8290591964652. -423.3626276282425. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 71 -20 0
-camera-move 303.2270650904677 -425.9668651836091 200
+camera-direction 71. -20. 0.
+camera-move 303.2270650904677. -425.9668651836091. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 72 -20 0
-camera-move 310.66973412433913 -428.4406537157321 200
+camera-direction 72. -20. 0.
+camera-move 310.66973412433913. -428.4406537157321. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 73 -20 0
-camera-move 318.1548014870073 -430.7832356462077 200
+camera-direction 73. -20. 0.
+camera-move 318.1548014870073. -430.7832356462077. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 74 -20 0
-camera-move 325.67998946554974 -432.99389357762857 200
+camera-direction 74. -20. 0.
+camera-move 325.67998946554974. -432.99389357762857. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 75 -20 0
-camera-move 333.24300813830297 -435.0719505132811 200
+camera-direction 75. -20. 0.
+camera-move 333.24300813830297. -435.0719505132811. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 76 -20 0
-camera-move 340.84155607168873 -437.01677006447005 200
+camera-direction 76. -20. 0.
+camera-move 340.84155607168873. -437.01677006447005. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 77 -20 0
-camera-move 348.47332102054145 -438.827756645408 200
+camera-direction 77. -20. 0.
+camera-move 348.47332102054145. -438.827756645408. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 78 -20 0
-camera-move 356.1359806317274 -440.50435565560855 200
+camera-direction 78. -20. 0.
+camera-move 356.1359806317274. -440.50435565560855. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 79 -20 0
-camera-move 363.8272031508383 -442.0460536497287 200
+camera-direction 79. -20. 0.
+camera-move 363.8272031508383. -442.0460536497287. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 80 -20 0
-camera-move 371.5446481317467 -443.4523784948071 200
+camera-direction 80. -20. 0.
+camera-move 371.5446481317467. -443.4523784948071. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 81 -20 0
-camera-move 379.28596714880564 -444.7228995148513 200
+camera-direction 81. -20. 0.
+camera-move 379.28596714880564. -444.7228995148513. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 82 -20 0
-camera-move 387.048804511477 -445.8572276227289 200
+camera-direction 82. -20. 0.
+camera-move 387.048804511477. -445.8572276227289. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 83 -20 0
-camera-move 394.83079798116995 -446.8550154393224 200
+camera-direction 83. -20. 0.
+camera-move 394.83079798116995. -446.8550154393224. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 84 -20 0
-camera-move 402.62957949007284 -447.71595739991136 200
+camera-direction 84. -20. 0.
+camera-move 402.62957949007284. -447.71595739991136. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 85 -20 0
-camera-move 410.44277586175815 -448.4397898477493 200
+camera-direction 85. -20. 0.
+camera-move 410.44277586175815. -448.4397898477493. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 86 -20 0
-camera-move 418.2680095333421 -449.0262911148061 200
+camera-direction 86. -20. 0.
+camera-move 418.2680095333421. -449.0262911148061. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 87 -20 0
-camera-move 426.1028992789794 -449.4752815896528 200
+camera-direction 87. -20. 0.
+camera-move 426.1028992789794. -449.4752815896528. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 88 -20 0
-camera-move 433.9450609344728 -449.7866237724656 200
+camera-direction 88. -20. 0.
+camera-move 433.9450609344728. -449.7866237724656. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 89 -20 0
-camera-move 441.79210812277586 -449.9602223171343 200
+camera-direction 89. -20. 0.
+camera-move 441.79210812277586. -449.9602223171343. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 90 -20 0
-camera-move 449.64165298017 -449.9960240604614 200
+camera-direction 90. -20. 0.
+camera-move 449.64165298017. -449.9960240604614. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 91 -20 0
-camera-move 457.4913068828938 -449.8940180384429 200
+camera-direction 91. -20. 0.
+camera-move 457.4913068828938. -449.8940180384429. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 92 -20 0
-camera-move 465.3386811740031 -449.6542354896257 200
+camera-direction 92. -20. 0.
+camera-move 465.3386811740031. -449.6542354896257. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 93 -20 0
-camera-move 473.181387890242 -449.2767498455414 200
+camera-direction 93. -20. 0.
+camera-move 473.181387890242. -449.2767498455414. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 94 -20 0
-camera-move 481.01704048870107 -448.7616767082182 200
+camera-direction 94. -20. 0.
+camera-move 481.01704048870107. -448.7616767082182. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 95 -20 0
-camera-move 488.8432545730464 -448.1091738147786 200
+camera-direction 95. -20. 0.
+camera-move 488.8432545730464. -448.1091738147786. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 96 -20 0
-camera-move 496.6576486190923 -447.3194409891342 200
+camera-direction 96. -20. 0.
+camera-move 496.6576486190923. -447.3194409891342. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 97 -20 0
-camera-move 504.45784469950155 -446.3927200807904 200
+camera-direction 97. -20. 0.
+camera-move 504.45784469950155. -446.3927200807904. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 98 -20 0
-camera-move 512.2414692073913 -445.3292948907824 200
+camera-direction 98. -20. 0.
+camera-move 512.2414692073913. -445.3292948907824. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 99 -20 0
-camera-move 520.0061535786232 -444.1294910847634 200
+camera-direction 99. -20. 0.
+camera-move 520.0061535786232. -444.1294910847634. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 100 -20 0
-camera-move 527.7495350125602 -442.79367609327164 200
+camera-direction 100. -20. 0.
+camera-move 527.7495350125602. -442.79367609327164. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 101 -20 0
-camera-move 535.4692571910687 -441.3222589992079 200
+camera-direction 101. -20. 0.
+camera-move 535.4692571910687. -441.3222589992079. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 102 -20 0
-camera-move 543.1629709955487 -439.71569041255725 200
+camera-direction 102. -20. 0.
+camera-move 543.1629709955487. -439.71569041255725. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 103 -20 0
-camera-move 550.8283352217719 -437.9744623323928 200
+camera-direction 103. -20. 0.
+camera-move 550.8283352217719. -437.9744623323928. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 104 -20 0
-camera-move 558.4630172923135 -436.09910799620536 200
+camera-direction 104. -20. 0.
+camera-move 558.4630172923135. -436.09910799620536. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 105 -20 0
-camera-move 566.0646939663566 -434.09020171660313 200
+camera-direction 105. -20. 0.
+camera-move 566.0646939663566. -434.09020171660313. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 106 -20 0
-camera-move 573.6310520466574 -431.94835870543335 200
+camera-direction 106. -20. 0.
+camera-move 573.6310520466574. -431.94835870543335. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 107 -20 0
-camera-move 581.1597890834523 -429.67423488537816 200
+camera-direction 107. -20. 0.
+camera-move 581.1597890834523. -429.67423488537816. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 108 -20 0
-camera-move 588.6486140750967 -427.2685266890837 200
+camera-direction 108. -20. 0.
+camera-move 588.6486140750967. -427.2685266890837. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 109 -20 0
-camera-move 596.0952481652175 -424.73197084588287 200
+camera-direction 109. -20. 0.
+camera-move 596.0952481652175. -424.73197084588287. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 110 -20 0
-camera-move 603.4974253361729 -422.0653441561777 200
+camera-direction 110. -20. 0.
+camera-move 603.4974253361729. -422.0653441561777. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 111 -20 0
-camera-move 610.852893098602 -419.2694632535504 200
+camera-direction 111. -20. 0.
+camera-move 610.852893098602. -419.2694632535504. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 112 -20 0
-camera-move 618.1594131768601 -416.3451843546757 200
+camera-direction 112. -20. 0.
+camera-move 618.1594131768601. -416.3451843546757. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 113 -20 0
-camera-move 625.4147621901285 -413.2934029971113 200
+camera-direction 113. -20. 0.
+camera-move 625.4147621901285. -413.2934029971113. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 114 -20 0
-camera-move 632.6167323289908 -410.11505376504607 200
+camera-direction 114. -20. 0.
+camera-move 632.6167323289908. -410.11505376504607. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 115 -20 0
-camera-move 639.7631320272714 -406.81111000309136 200
+camera-direction 115. -20. 0.
+camera-move 639.7631320272714. -406.81111000309136. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 116 -20 0
-camera-move 646.851786628931 -403.382583518202 200
+camera-direction 116. -20. 0.
+camera-move 646.851786628931. -403.382583518202. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 117 -20 0
-camera-move 653.8805390498167 -399.83052426981743 200
+camera-direction 117. -20. 0.
+camera-move 653.8805390498167. -399.83052426981743. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 118 -20 0
-camera-move 660.847250434065 -396.1560200483208 200
+camera-direction 118. -20. 0.
+camera-move 660.847250434065. -396.1560200483208. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 119 -20 0
-camera-move 667.749800804957 -392.3601961419113 200
+camera-direction 119. -20. 0.
+camera-move 667.749800804957. -392.3601961419113. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 120 -20 0
-camera-move 674.5860897100289 -388.4442149919932 200
+camera-direction 120. -20. 0.
+camera-move 674.5860897100289. -388.4442149919932. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 121 -20 0
-camera-move 681.3540368602435 -384.4092758371878 200
+camera-direction 121. -20. 0.
+camera-move 681.3540368602435. -384.4092758371878. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 122 -20 0
-camera-move 688.0515827630218 -380.25661434607525 200
+camera-direction 122. -20. 0.
+camera-move 688.0515827630218. -380.25661434607525. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 123 -20 0
-camera-move 694.6766893489496 -375.98750223878164 200
+camera-direction 123. -20. 0.
+camera-move 694.6766893489496. -375.98750223878164. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 124 -20 0
-camera-move 701.2273405919645 -371.6032468975236 200
+camera-direction 124. -20. 0.
+camera-move 701.2273405919645. -371.6032468975236. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 125 -20 0
-camera-move 707.7015431228332 -367.10519096623364 200
+camera-direction 125. -20. 0.
+camera-move 707.7015431228332. -367.10519096623364. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 126 -20 0
-camera-move 714.0973268357368 -362.4947119393852 200
+camera-direction 126. -20. 0.
+camera-move 714.0973268357368. -362.4947119393852. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 127 -20 0
-camera-move 720.4127454877744 -357.77322174014637 200
+camera-direction 127. -20. 0.
+camera-move 720.4127454877744. -357.77322174014637. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 128 -20 0
-camera-move 726.6458772912081 -352.9421662879891 200
+camera-direction 128. -20. 0.
+camera-move 726.6458772912081. -352.9421662879891. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 129 -20 0
-camera-move 732.794825498264 -348.00302505588735 200
+camera-direction 129. -20. 0.
+camera-move 732.794825498264. -348.00302505588735. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 130 -20 0
-camera-move 738.8577189783148 -342.95731061724103 200
+camera-direction 130. -20. 0.
+camera-move 738.8577189783148. -342.95731061724103. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 131 -20 0
-camera-move 744.8327127872653 -337.8065681826612 200
+camera-direction 131. -20. 0.
+camera-move 744.8327127872653. -337.8065681826612. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 132 -20 0
-camera-move 750.7179887289725 -332.5523751267619 200
+camera-direction 132. -20. 0.
+camera-move 750.7179887289725. -332.5523751267619. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 133 -20 0
-camera-move 756.511755908523 -327.19634050510143 200
+camera-direction 133. -20. 0.
+camera-move 756.511755908523. -327.19634050510143. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 134 -20 0
-camera-move 762.2122512772042 -321.74010456142184 200
+camera-direction 134. -20. 0.
+camera-move 762.2122512772042. -321.74010456142184. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 135 -20 0
-camera-move 767.8177401690023 -316.1853382253364 200
+camera-direction 135. -20. 0.
+camera-move 767.8177401690023. -316.1853382253364. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 136 -20 0
-camera-move 773.326516828462 -310.5337426006214 200
+camera-direction 136. -20. 0.
+camera-move 773.326516828462. -310.5337426006214. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 137 -20 0
-camera-move 778.7369049297495 -304.7870484442659 200
+camera-direction 137. -20. 0.
+camera-move 778.7369049297495. -304.7870484442659. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 138 -20 0
-camera-move 784.0472580867608 -298.947015636441 200
+camera-direction 138. -20. 0.
+camera-move 784.0472580867608. -298.947015636441. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 139 -20 0
-camera-move 789.2559603541179 -293.0154326415505 200
+camera-direction 139. -20. 0.
+camera-move 789.2559603541179. -293.0154326415505. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 140 -20 0
-camera-move 794.3614267189021 -286.99411596052664 200
+camera-direction 140. -20. 0.
+camera-move 794.3614267189021. -286.99411596052664. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 141 -20 0
-camera-move 799.3621035829757 -280.88490957454303 200
+camera-direction 141. -20. 0.
+camera-move 799.3621035829757. -280.88490957454303. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 142 -20 0
-camera-move 804.2564692357431 -274.6896843803074 200
+camera-direction 142. -20. 0.
+camera-move 804.2564692357431. -274.6896843803074. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 143 -20 0
-camera-move 809.0430343172086 -268.4103376171157 200
+camera-direction 143. -20. 0.
+camera-move 809.0430343172086. -268.4103376171157. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 144 -20 0
-camera-move 813.7203422711896 -262.04879228583684 200
+camera-direction 144. -20. 0.
+camera-move 813.7203422711896. -262.04879228583684. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 145 -20 0
-camera-move 818.2869697885492 -255.60699656000872 200
+camera-direction 145. -20. 0.
+camera-move 818.2869697885492. -255.60699656000872. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 146 -20 0
-camera-move 822.7415272403091 -249.08692318922564 200
+camera-direction 146. -20. 0.
+camera-move 822.7415272403091. -249.08692318922564. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 147 -20 0
-camera-move 827.0826591005164 -242.49056889499803 200
+camera-direction 147. -20. 0.
+camera-move 827.0826591005164. -242.49056889499803. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 148 -20 0
-camera-move 831.3090443587297 -235.81995375927426 200
+camera-direction 148. -20. 0.
+camera-move 831.3090443587297. -235.81995375927426. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 149 -20 0
-camera-move 835.4193969220053 -229.0771206058037 200
+camera-direction 149. -20. 0.
+camera-move 835.4193969220053. -229.0771206058037. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 150 -20 0
-camera-move 839.4124660062561 -222.26413437454013 200
+camera-direction 150. -20. 0.
+camera-move 839.4124660062561. -222.26413437454013. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 151 -20 0
-camera-move 843.2870365168656 -215.38308148926862 200
+camera-direction 151. -20. 0.
+camera-move 843.2870365168656. -215.38308148926862. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 152 -20 0
-camera-move 847.0419294184433 -208.43606921865532 200
+camera-direction 152. -20. 0.
+camera-move 847.0419294184433. -208.43606921865532. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 153 -20 0
-camera-move 850.6760020936053 -201.42522503091263 200
+camera-direction 153. -20. 0.
+camera-move 850.6760020936053. -201.42522503091263. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 154 -20 0
-camera-move 854.1881486906755 -194.35269594227822 200
+camera-direction 154. -20. 0.
+camera-move 854.1881486906755. -194.35269594227822. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 155 -20 0
-camera-move 857.5773004601948 -187.22064785950909 200
+camera-direction 155. -20. 0.
+camera-move 857.5773004601948. -187.22064785950909. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 156 -20 0
-camera-move 860.8424260801446 -180.03126491658878 200
+camera-direction 156. -20. 0.
+camera-move 860.8424260801446. -180.03126491658878. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 157 -20 0
-camera-move 863.9825319697786 -172.7867488058537 200
+camera-direction 157. -20. 0.
+camera-move 863.9825319697786. -172.7867488058537. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 158 -20 0
-camera-move 866.9966625919694 -165.489318103742 200
+camera-direction 158. -20. 0.
+camera-move 866.9966625919694. -165.489318103742. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 159 -20 0
-camera-move 869.8839007439806 -158.141207591372 200
+camera-direction 159. -20. 0.
+camera-move 869.8839007439806. -158.141207591372. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 160 -20 0
-camera-move 872.6433678365713 -150.7446675701573 200
+camera-direction 160. -20. 0.
+camera-move 872.6433678365713. -150.7446675701573. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 161 -20 0
-camera-move 875.274224161353 -143.3019631726706 200
+camera-direction 161. -20. 0.
+camera-move 875.274224161353. -143.3019631726706. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 162 -20 0
-camera-move 877.775669146312 -135.81537366896396 200
+camera-direction 162. -20. 0.
+camera-move 877.775669146312. -135.81537366896396. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 163 -20 0
-camera-move 880.1469415994254 -128.28719176856023 200
+camera-direction 163. -20. 0.
+camera-move 880.1469415994254. -128.28719176856023. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 164 -20 0
-camera-move 882.3873199402923 -120.71972291832806 200
+camera-direction 164. -20. 0.
+camera-move 882.3873199402923. -120.71972291832806. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 165 -20 0
-camera-move 884.4961224197107 -113.11528459645851 200
+camera-direction 165. -20. 0.
+camera-move 884.4961224197107. -113.11528459645851. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 166 -20 0
-camera-move 886.4727073271356 -105.47620560275385 200
+camera-direction 166. -20. 0.
+camera-move 886.4727073271356. -105.47620560275385. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 167 -20 0
-camera-move 888.316473185951 -97.80482534545094 200
+camera-direction 167. -20. 0.
+camera-move 888.316473185951. -97.80482534545094. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 168 -20 0
-camera-move 890.0268589365007 -90.10349312479693 200
+camera-direction 168. -20. 0.
+camera-move 890.0268589365007. -90.10349312479693. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 169 -20 0
-camera-move 891.6033441068184 -82.37456741359273 200
+camera-direction 169. -20. 0.
+camera-move 891.6033441068184. -82.37456741359273. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 170 -20 0
-camera-move 893.0454489710085 -74.62041513493119 200
+camera-direction 170. -20. 0.
+camera-move 893.0454489710085. -74.62041513493119. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 171 -20 0
-camera-move 894.3527346952264 -66.84341093734373 200
+camera-direction 171. -20. 0.
+camera-move 894.3527346952264. -66.84341093734373. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 172 -20 0
-camera-move 895.5248034712174 -59.045936467582905 200
+camera-direction 172. -20. 0.
+camera-move 895.5248034712174. -59.045936467582905. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 173 -20 0
-camera-move 896.5612986373685 -51.23037964126296 200
+camera-direction 173. -20. 0.
+camera-move 896.5612986373685. -51.23037964126296. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 174 -20 0
-camera-move 897.4619047872418 -43.3991339115775 200
+camera-direction 174. -20. 0.
+camera-move 897.4619047872418. -43.3991339115775. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 175 -20 0
-camera-move 898.2263478655527 -35.55459753632536 200
+camera-direction 175. -20. 0.
+camera-move 898.2263478655527. -35.55459753632536. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 176 -20 0
-camera-move 898.8543952515654 -27.699172843460918 200
+camera-direction 176. -20. 0.
+camera-move 898.8543952515654. -27.699172843460918. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 177 -20 0
-camera-move 899.3458558298793 -19.835265495401103 200
+camera-direction 177. -20. 0.
+camera-move 899.3458558298793. -19.835265495401103. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 178 -20 0
-camera-move 899.7005800485857 -11.965283752309125 200
+camera-direction 178. -20. 0.
+camera-move 899.7005800485857. -11.965283752309125. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 179 -20 0
-camera-move 899.918459964777 -4.091637734584576 200
+camera-direction 179. -20. 0.
+camera-move 899.918459964777. -4.091637734584576. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 180 -20 0
-camera-move 899.9994292773928 3.7832613152168784 200
+camera-direction 180. -20. 0.
+camera-move 899.9994292773928. 3.7832613152168784. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 181 -20 0
-camera-move 899.9434633473966 11.657001770809488 200
+camera-direction 181. -20. 0.
+camera-move 899.9434633473966. 11.657001770809488. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 182 -20 0
-camera-move 899.7505792052725 19.527172360716932 200
+camera-direction 182. -20. 0.
+camera-move 899.7505792052725. 19.527172360716932. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 183 -20 0
-camera-move 899.4208355458435 27.391362906707148 200
+camera-direction 183. -20. 0.
+camera-move 899.4208355458435. 27.391362906707148. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 184 -20 0
-camera-move 898.9543327104102 35.24716506188938 200
+camera-direction 184. -20. 0.
+camera-move 898.9543327104102. 35.24716506188938. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 185 -20 0
-camera-move 898.3512126562168 43.09217304825142 200
+camera-direction 185. -20. 0.
+camera-move 898.3512126562168. 43.09217304825142. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 186 -20 0
-camera-move 897.6116589132539 50.92398439341206 200
+camera-direction 186. -20. 0.
+camera-move 897.6116589132539. 50.92398439341206. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 187 -20 0
-camera-move 896.7358965284097 58.740200666357566 200
+camera-direction 187. -20. 0.
+camera-move 896.7358965284097. 58.740200666357566. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 188 -20 0
-camera-move 895.7241919969879 66.53842821194313 200
+camera-direction 188. -20. 0.
+camera-move 895.7241919969879. 66.53842821194313. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 189 -20 0
-camera-move 894.5768531816134 74.31627888393194 200
+camera-direction 189. -20. 0.
+camera-move 894.5768531816134. 74.31627888393194. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 190 -20 0
-camera-move 893.2942292185489 82.07137077634427 200
+camera-direction 190. -20. 0.
+camera-move 893.2942292185489. 82.07137077634427. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 191 -20 0
-camera-move 891.8767104114531 89.80132895289934 200
+camera-direction 191. -20. 0.
+camera-move 891.8767104114531. 89.80132895289934. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 192 -20 0
-camera-move 890.3247281126103 97.50378617432082 200
+camera-direction 192. -20. 0.
+camera-move 890.3247281126103. 97.50378617432082. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 193 -20 0
-camera-move 888.6387545916697 105.17638362328418 200
+camera-direction 193. -20. 0.
+camera-move 888.6387545916697. 105.17638362328418. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 194 -20 0
-camera-move 886.8193028919331 112.81677162678777 200
+camera-direction 194. -20. 0.
+camera-move 886.8193028919331. 112.81677162678777. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 195 -20 0
-camera-move 884.8669266742363 120.42261037571971 200
+camera-direction 195. -20. 0.
+camera-move 884.8669266742363. 120.42261037571971. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 196 -20 0
-camera-move 882.7822200484683 127.99157064140795 200
+camera-direction 196. -20. 0.
+camera-move 882.7822200484683. 127.99157064140795. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 197 -20 0
-camera-move 880.5658173927836 135.521334488928 200
+camera-direction 197. -20. 0.
+camera-move 880.5658173927836. 135.521334488928. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 198 -20 0
-camera-move 878.2183931605609 143.0095959869514 200
+camera-direction 198. -20. 0.
+camera-move 878.2183931605609. 143.0095959869514. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 199 -20 0
-camera-move 875.7406616751657 150.45406191392078 200
+camera-direction 199. -20. 0.
+camera-move 875.7406616751657. 150.45406191392078. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 200 -20 0
-camera-move 873.1333769125808 157.85245246032892 200
+camera-direction 200. -20. 0.
+camera-move 873.1333769125808. 157.85245246032892. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 201 -20 0
-camera-move 870.3973322719717 165.20250192689463 200
+camera-direction 201. -20. 0.
+camera-move 870.3973322719717. 165.20250192689463. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 202 -20 0
-camera-move 867.5333603342531 172.50195941841417 200
+camera-direction 202. -20. 0.
+camera-move 867.5333603342531. 172.50195941841417. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 203 -20 0
-camera-move 864.5423326087355 179.74858953308137 200
+camera-direction 203. -20. 0.
+camera-move 864.5423326087355. 179.74858953308137. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 204 -20 0
-camera-move 861.4251592679225 186.94017304706082 200
+camera-direction 204. -20. 0.
+camera-move 861.4251592679225. 186.94017304706082. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 205 -20 0
-camera-move 858.1827888705454 194.07450759410798 200
+camera-direction 205. -20. 0.
+camera-move 858.1827888705454. 194.07450759410798. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 206 -20 0
-camera-move 854.8162080729155 201.149408340028 200
+camera-direction 206. -20. 0.
+camera-move 854.8162080729155. 201.149408340028. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 207 -20 0
-camera-move 851.3264413286839 208.1627086517622 200
+camera-direction 207. -20. 0.
+camera-move 851.3264413286839. 208.1627086517622. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 208 -20 0
-camera-move 847.7145505770992 215.11226076090412 200
+camera-direction 208. -20. 0.
+camera-move 847.7145505770992. 215.11226076090412. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 209 -20 0
-camera-move 843.9816349198582 221.9959364214358 200
+camera-direction 209. -20. 0.
+camera-move 843.9816349198582. 221.9959364214358. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 210 -20 0
-camera-move 840.128830286649 228.81162756148626 200
+camera-direction 210. -20. 0.
+camera-move 840.128830286649. 228.81162756148626. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 211 -20 0
-camera-move 836.1573090894849 235.55724692891357 200
+camera-direction 211. -20. 0.
+camera-move 836.1573090894849. 235.55724692891357. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 212 -20 0
-camera-move 832.0682798659409 242.23072873050796 200
+camera-direction 212. -20. 0.
+camera-move 832.0682798659409. 242.23072873050796. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 213 -20 0
-camera-move 827.862986911392 248.83002926462515 200
+camera-direction 213. -20. 0.
+camera-move 827.862986911392. 248.83002926462515. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 214 -20 0
-camera-move 823.5427099003746 255.35312754705512 200
+camera-direction 214. -20. 0.
+camera-move 823.5427099003746. 255.35312754705512. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 215 -20 0
-camera-move 819.1087634971798 261.7980259299309 200
+camera-direction 215. -20. 0.
+camera-move 819.1087634971798. 261.7980259299309. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 216 -20 0
-camera-move 814.5624969557996 268.1627507134938 200
+camera-direction 216. -20. 0.
+camera-move 814.5624969557996. 268.1627507134938. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 217 -20 0
-camera-move 809.9052937093484 274.44535275052385 200
+camera-direction 217. -20. 0.
+camera-move 809.9052937093484. 274.44535275052385. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 218 -20 0
-camera-move 805.1385709490821 280.64390804324967 200
+camera-direction 218. -20. 0.
+camera-move 805.1385709490821. 280.64390804324967. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 219 -20 0
-camera-move 800.2637791931465 286.7565183325593 200
+camera-direction 219. -20. 0.
+camera-move 800.2637791931465. 286.7565183325593. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 220 -20 0
-camera-move 795.2824018451822 292.7813116793253 200
+camera-direction 220. -20. 0.
+camera-move 795.2824018451822. 292.7813116793253. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 221 -20 0
-camera-move 790.1959547429246 298.71644303767306 200
+camera-direction 221. -20. 0.
+camera-move 790.1959547429246. 298.71644303767306. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 222 -20 0
-camera-move 785.0059856969322 304.5600948200115 200
+camera-direction 222. -20. 0.
+camera-move 785.0059856969322. 304.5600948200115. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 223 -20 0
-camera-move 779.7140740195867 310.3104774536539 200
+camera-direction 223. -20. 0.
+camera-move 779.7140740195867. 310.3104774536539. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 224 -20 0
-camera-move 774.3218300445069 315.96582992886243 200
+camera-direction 224. -20. 0.
+camera-move 774.3218300445069. 315.96582992886243. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 225 -20 0
-camera-move 768.8308946365229 321.5244203381415 200
+camera-direction 225. -20. 0.
+camera-move 768.8308946365229. 321.5244203381415. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 226 -20 0
-camera-move 763.2429386923585 326.9845464066225 200
+camera-direction 226. -20. 0.
+camera-move 763.2429386923585. 326.9845464066225. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 227 -20 0
-camera-move 757.5596626321772 332.34453601337145 200
+camera-direction 227. -20. 0.
+camera-move 757.5596626321772. 332.34453601337145. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 228 -20 0
-camera-move 751.7827958821409 337.6027477034634 200
+camera-direction 228. -20. 0.
+camera-move 751.7827958821409. 337.6027477034634. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 229 -20 0
-camera-move 745.9140963481464 342.75757119066486 200
+camera-direction 229. -20. 0.
+camera-move 745.9140963481464. 342.75757119066486. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 230 -20 0
-camera-move 739.9553498808907 347.8074278505709 200
+camera-direction 230. -20. 0.
+camera-move 739.9553498808907. 347.8074278505709. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 231 -20 0
-camera-move 733.9083697324359 352.75077120404745 200
+camera-direction 231. -20. 0.
+camera-move 733.9083697324359. 352.75077120404745. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 232 -20 0
-camera-move 727.7749960044348 357.58608739082854 200
+camera-direction 232. -20. 0.
+camera-move 727.7749960044348. 357.58608739082854. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 233 -20 0
-camera-move 721.5570950881875 362.311895633123 200
+camera-direction 233. -20. 0.
+camera-move 721.5570950881875. 362.311895633123. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 234 -20 0
-camera-move 715.2565590966941 366.926748689092 200
+camera-direction 234. -20. 0.
+camera-move 715.2565590966941. 366.926748689092. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 235 -20 0
-camera-move 708.8753052888856 371.4292332960553 200
+camera-direction 235. -20. 0.
+camera-move 708.8753052888856. 371.4292332960553. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 236 -20 0
-camera-move 702.4152754861984 375.81797060329205 200
+camera-direction 236. -20. 0.
+camera-move 702.4152754861984. 375.81797060329205. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 237 -20 0
-camera-move 695.8784354816779 380.0916165943028 200
+camera-direction 237. -20. 0.
+camera-move 695.8784354816779. 380.0916165943028. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 238 -20 0
-camera-move 689.2667744417847 384.2488624984043 200
+camera-direction 238. -20. 0.
+camera-move 689.2667744417847. 384.2488624984043. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 239 -20 0
-camera-move 682.5823043010894 388.28843519153 200
+camera-direction 239. -20. 0.
+camera-move 682.5823043010894. 388.28843519153. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 240 -20 0
-camera-move 675.8270591500393 392.2090975861147 200
+camera-direction 240. -20. 0.
+camera-move 675.8270591500393. 392.2090975861147. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 241 -20 0
-camera-move 669.0030946159826 396.0096490099426 200
+camera-direction 241. -20. 0.
+camera-move 669.0030946159826. 396.0096490099426. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 242 -20 0
-camera-move 662.1124872376405 399.68892557384396 200
+camera-direction 242. -20. 0.
+camera-move 662.1124872376405. 399.68892557384396. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 243 -20 0
-camera-move 655.1573338332121 403.2458005281274 200
+camera-direction 243. -20. 0.
+camera-move 655.1573338332121. 403.2458005281274. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 244 -20 0
-camera-move 648.1397508623121 406.6791846076375 200
+camera-direction 244. -20. 0.
+camera-move 648.1397508623121. 406.6791846076375. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 245 -20 0
-camera-move 641.0618737819311 409.98802636533384 200
+camera-direction 245. -20. 0.
+camera-move 641.0618737819311. 409.98802636533384. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 246 -20 0
-camera-move 633.9258563966117 413.17131249428917 200
+camera-direction 246. -20. 0.
+camera-move 633.9258563966117. 413.17131249428917. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 247 -20 0
-camera-move 626.7338702030454 416.22806813800605 200
+camera-direction 247. -20. 0.
+camera-move 626.7338702030454. 416.22806813800605. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 248 -20 0
-camera-move 619.4881037292846 419.15735718895917 200
+camera-direction 248. -20. 0.
+camera-move 619.4881037292846. 419.15735718895917. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 249 -20 0
-camera-move 612.19076186877 421.95828257527097 200
+camera-direction 249. -20. 0.
+camera-move 612.19076186877. 421.95828257527097. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 250 -20 0
-camera-move 604.8440652093801 424.6299865354331 200
+camera-direction 250. -20. 0.
+camera-move 604.8440652093801. 424.6299865354331. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 251 -20 0
-camera-move 597.4502493577044 427.17165088098886 200
+camera-direction 251. -20. 0.
+camera-move 597.4502493577044. 427.17165088098886. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 252 -20 0
-camera-move 590.0115642587466 429.58249724709736 200
+camera-direction 252. -20. 0.
+camera-move 590.0115642587466. 429.58249724709736. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 253 -20 0
-camera-move 582.5302735112642 431.86178733090117 200
+camera-direction 253. -20. 0.
+camera-move 582.5302735112642. 431.86178733090117. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 254 -20 0
-camera-move 575.0086536789519 434.00882311762666 200
+camera-direction 254. -20. 0.
+camera-move 575.0086536789519. 434.00882311762666. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 255 -20 0
-camera-move 567.4489935976828 436.0229470943444 200
+camera-direction 255. -20. 0.
+camera-move 567.4489935976828. 436.0229470943444. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 256 -20 0
-camera-move 559.8535936790125 437.9035424513281 200
+camera-direction 256. -20. 0.
+camera-move 559.8535936790125. 437.9035424513281. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 257 -20 0
-camera-move 552.2247652101632 439.65003327094826 200
+camera-direction 257. -20. 0.
+camera-move 552.2247652101632. 439.65003327094826. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 258 -20 0
-camera-move 544.5648296506951 441.2618847040411 200
+camera-direction 258. -20. 0.
+camera-move 544.5648296506951. 441.2618847040411. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 259 -20 0
-camera-move 536.8761179260847 442.738603133703 200
+camera-direction 259. -20. 0.
+camera-move 536.8761179260847. 442.738603133703. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 260 -20 0
-camera-move 529.1609697184222 444.07973632645644 200
+camera-direction 260. -20. 0.
+camera-move 529.1609697184222. 444.07973632645644. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 261 -20 0
-camera-move 521.4217327544444 445.28487357074295 200
+camera-direction 261. -20. 0.
+camera-move 521.4217327544444. 445.28487357074295. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 262 -20 0
-camera-move 513.6607620911195 446.3536458027005 200
+camera-direction 262. -20. 0.
+camera-move 513.6607620911195. 446.3536458027005. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 263 -20 0
-camera-move 505.8804193989994 447.2857257191862 200
+camera-direction 263. -20. 0.
+camera-move 505.8804193989994. 447.2857257191862. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 264 -20 0
-camera-move 498.0830722435626 448.0808278780104 200
+camera-direction 264. -20. 0.
+camera-move 498.0830722435626. 448.0808278780104. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 265 -20 0
-camera-move 490.2710933647612 448.73870878535126 200
+camera-direction 265. -20. 0.
+camera-move 490.2710933647612. 448.73870878535126. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 266 -20 0
-camera-move 482.4468599549956 449.25916697032284 200
+camera-direction 266. -20. 0.
+camera-move 482.4468599549956. 449.25916697032284. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 267 -20 0
-camera-move 474.61275293572993 449.64204304667345 200
+camera-direction 267. -20. 0.
+camera-move 474.61275293572993. 449.64204304667345. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 268 -20 0
-camera-move 466.7711562329773 449.8872197615973 200
+camera-direction 268. -20. 0.
+camera-move 466.7711562329773. 449.8872197615973. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 269 -20 0
-camera-move 458.924456051868 449.99462203164165 200
+camera-direction 269. -20. 0.
+camera-move 458.924456051868. 449.99462203164165. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 270 -20 0
-camera-move 451.0750401505267 449.96421696570076 200
+camera-direction 270. -20. 0.
+camera-move 451.0750401505267. 449.96421696570076. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 271 -20 0
-camera-move 443.2252971134727 449.79601387508836 200
+camera-direction 271. -20. 0.
+camera-move 443.2252971134727. 449.79601387508836. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 272 -20 0
-camera-move 435.3776156247746 449.4900642706864 200
+camera-direction 272. -20. 0.
+camera-move 435.3776156247746. 449.4900642706864. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 273 -20 0
-camera-move 427.53438374116865 449.04646184716995 200
+camera-direction 273. -20. 0.
+camera-move 427.53438374116865. 449.04646184716995. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 274 -20 0
-camera-move 419.6979881653727 448.46534245431417 200
+camera-direction 274. -20. 0.
+camera-move 419.6979881653727. 448.46534245431417. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 275 -20 0
-camera-move 411.8708135198092 447.74688405539143 200
+camera-direction 275. -20. 0.
+camera-move 411.8708135198092. 447.74688405539143. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 276 -20 0
-camera-move 404.0552416209643 446.8913066726709 200
+camera-direction 276. -20. 0.
+camera-move 404.0552416209643. 446.8913066726709. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 277 -20 0
-camera-move 396.25365075459615 445.89887232003935 200
+camera-direction 277. -20. 0.
+camera-move 396.25365075459615. 445.89887232003935. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 278 -20 0
-camera-move 388.46841495202307 444.7698849227607 200
+camera-direction 278. -20. 0.
+camera-move 388.46841495202307. 444.7698849227607. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 279 -20 0
-camera-move 380.7019032677015 443.5046902244014 200
+camera-direction 279. -20. 0.
+camera-move 380.7019032677015. 443.5046902244014. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 280 -20 0
-camera-move 372.95647905832095 442.1036756809496 200
+camera-direction 280. -20. 0.
+camera-move 372.95647905832095. 442.1036756809496. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 281 -20 0
-camera-move 365.2344992636344 440.5672703421595 200
+camera-direction 281. -20. 0.
+camera-move 365.2344992636344. 440.5672703421595. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 282 -20 0
-camera-move 357.5383136892363 438.8959447201577 200
+camera-direction 282. -20. 0.
+camera-move 357.5383136892363. 438.8959447201577. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 283 -20 0
-camera-move 349.87026429151655 437.0902106453537 200
+camera-direction 283. -20. 0.
+camera-move 349.87026429151655. 437.0902106453537. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 284 -20 0
-camera-move 342.2326844649999 435.1506211096947 200
+camera-direction 284. -20. 0.
+camera-move 342.2326844649999. 435.1506211096947. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 285 -20 0
-camera-move 334.6278983322934 433.07777009731694 200
+camera-direction 285. -20. 0.
+camera-move 334.6278983322934. 433.07777009731694. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 286 -20 0
-camera-move 327.05822003685256 430.87229240264213 200
+camera-direction 286. -20. 0.
+camera-move 327.05822003685256. 430.87229240264213. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 287 -20 0
-camera-move 319.5259530387848 428.534863435977 200
+camera-direction 287. -20. 0.
+camera-move 319.5259530387848. 428.534863435977. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 288 -20 0
-camera-move 312.0333894139055 426.06619901667403 200
+camera-direction 288. -20. 0.
+camera-move 312.0333894139055. 426.06619901667403. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 289 -20 0
-camera-move 304.5828091562566 423.4670551539173 200
+camera-direction 289. -20. 0.
+camera-move 304.5828091562566. 423.4670551539173. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 290 -20 0
-camera-move 297.1764794843035 420.7382278152007 200
+camera-direction 290. -20. 0.
+camera-move 297.1764794843035. 420.7382278152007. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 291 -20 0
-camera-move 289.8166541510165 417.88055268256915 200
+camera-direction 291. -20. 0.
+camera-move 289.8166541510165. 417.88055268256915. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 292 -20 0
-camera-move 282.5055727580529 414.8949048966975 200
+camera-direction 292. -20. 0.
+camera-move 282.5055727580529. 414.8949048966975. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 293 -20 0
-camera-move 275.2454600742434 411.78219878888495 200
+camera-direction 293. -20. 0.
+camera-move 275.2454600742434. 411.78219878888495. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 294 -20 0
-camera-move 268.0385253585947 408.5433876010492 200
+camera-direction 294. -20. 0.
+camera-move 268.0385253585947. 408.5433876010492. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 295 -20 0
-camera-move 260.8869616880069 405.17946319380343 200
+camera-direction 295. -20. 0.
+camera-move 260.8869616880069. 405.17946319380343. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 296 -20 0
-camera-move 253.79294528992145 401.6914557427056 200
+camera-direction 296. -20. 0.
+camera-move 253.79294528992145. 401.6914557427056. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 297 -20 0
-camera-move 246.7586348800904 398.0804334227766 200
+camera-direction 297. -20. 0.
+camera-move 246.7586348800904. 398.0804334227766. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 298 -20 0
-camera-move 239.78617100567874 394.34750208137933 200
+camera-direction 298. -20. 0.
+camera-move 239.78617100567874. 394.34750208137933. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 299 -20 0
-camera-move 232.87767539389313 390.4938048995617 200
+camera-direction 299. -20. 0.
+camera-move 232.87767539389313. 390.4938048995617. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 300 -20 0
-camera-move 226.03525030633983 386.5205220419664 200
+camera-direction 300. -20. 0.
+camera-move 226.03525030633983. 386.5205220419664. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 301 -20 0
-camera-move 219.2609778993024 382.4288702954147 200
+camera-direction 301. -20. 0.
+camera-move 219.2609778993024. 382.4288702954147. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 302 -20 0
-camera-move 212.5569195901406 378.22010269627503 200
+camera-direction 302. -20. 0.
+camera-move 212.5569195901406. 378.22010269627503. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 303 -20 0
-camera-move 205.92511543000043 373.8955081467303 200
+camera-direction 303. -20. 0.
+camera-move 205.92511543000043. 373.8955081467303. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 304 -20 0
-camera-move 199.36758348302197 369.4564110200612 200
+camera-direction 304. -20. 0.
+camera-move 199.36758348302197. 369.4564110200612. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 305 -20 0
-camera-move 192.88631921224368 364.9041707550688 200
+camera-direction 305. -20. 0.
+camera-move 192.88631921224368. 364.9041707550688. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 306 -20 0
-camera-move 186.48329487237834 360.2401814397554 200
+camera-direction 306. -20. 0.
+camera-move 186.48329487237834. 360.2401814397554. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 307 -20 0
-camera-move 180.16045890965592 355.4658713843962 200
+camera-direction 307. -20. 0.
+camera-move 180.16045890965592. 355.4658713843962. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 308 -20 0
-camera-move 173.91973536890868 350.5827026841314 200
+camera-direction 308. -20. 0.
+camera-move 173.91973536890868. 350.5827026841314. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 309 -20 0
-camera-move 167.76302330808375 345.59217077121025 200
+camera-direction 309. -20. 0.
+camera-move 167.76302330808375. 345.59217077121025. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 310 -20 0
-camera-move 161.6921962203561 340.49580395702657 200
+camera-direction 310. -20. 0.
+camera-move 161.6921962203561. 340.49580395702657. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 311 -20 0
-camera-move 155.70910146402503 335.2951629640858 200
+camera-direction 311. -20. 0.
+camera-move 155.70910146402503. 335.2951629640858. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 312 -20 0
-camera-move 149.81555970035953 329.9918404480454 200
+camera-direction 312. -20. 0.
+camera-move 149.81555970035953. 329.9918404480454. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 313 -20 0
-camera-move 144.01336433956982 324.58746050997695 200
+camera-direction 313. -20. 0.
+camera-move 144.01336433956982. 324.58746050997695. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 314 -20 0
-camera-move 138.3042809950723 319.0836781989976 200
+camera-direction 314. -20. 0.
+camera-move 138.3042809950723. 319.0836781989976. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 315 -20 0
-camera-move 132.69004694620975 313.48217900542414 200
+camera-direction 315. -20. 0.
+camera-move 132.69004694620975. 313.48217900542414. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 316 -20 0
-camera-move 127.17237060959678 307.7846783446053 200
+camera-direction 316. -20. 0.
+camera-move 127.17237060959678. 307.7846783446053. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 317 -20 0
-camera-move 121.7529310192466 301.9929210315888 200
+camera-direction 317. -20. 0.
+camera-move 121.7529310192466. 301.9929210315888. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 318 -20 0
-camera-move 116.43337731564054 296.10868074678484 200
+camera-direction 318. -20. 0.
+camera-move 116.43337731564054. 296.10868074678484. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 319 -20 0
-camera-move 111.21532824389107 290.13375949279117 200
+camera-direction 319. -20. 0.
+camera-move 111.21532824389107. 290.13375949279117. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 320 -20 0
-camera-move 106.10037166115825 284.0699870425447 200
+camera-direction 320. -20. 0.
+camera-move 106.10037166115825. 284.0699870425447. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 321 -20 0
-camera-move 101.09006405346167 277.919220378965 200
+camera-direction 321. -20. 0.
+camera-move 101.09006405346167. 277.919220378965. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 322 -20 0
-camera-move 96.18593006204134 271.68334312627064 200
+camera-direction 322. -20. 0.
+camera-move 96.18593006204134. 271.68334312627064. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 323 -20 0
-camera-move 91.38946201940718 265.3642649731327 200
+camera-direction 323. -20. 0.
+camera-move 91.38946201940718. 265.3642649731327. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 324 -20 0
-camera-move 86.70211949522229 258.9639210878477 200
+camera-direction 324. -20. 0.
+camera-move 86.70211949522229. 258.9639210878477. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 325 -20 0
-camera-move 82.1253288521525 252.48427152570753 200
+camera-direction 325. -20. 0.
+camera-move 82.1253288521525. 252.48427152570753. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 326 -20 0
-camera-move 77.66048281182452 245.92730062874801 200
+camera-direction 326. -20. 0.
+camera-move 77.66048281182452. 245.92730062874801. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 327 -20 0
-camera-move 73.30894003101844 239.29501641805822 200
+camera-direction 327. -20. 0.
+camera-move 73.30894003101844. 239.29501641805822. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 328 -20 0
-camera-move 69.07202468822817 232.58944997884294 200
+camera-direction 328. -20. 0.
+camera-move 69.07202468822817. 232.58944997884294. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 329 -20 0
-camera-move 64.9510260807125 225.81265483841563 200
+camera-direction 329. -20. 0.
+camera-move 64.9510260807125. 225.81265483841563. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 330 -20 0
-camera-move 60.947198232158996 218.96670633732177 200
+camera-direction 330. -20. 0.
+camera-move 60.947198232158996. 218.96670633732177. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 331 -20 0
-camera-move 57.06175951108622 212.05370099378553 200
+camera-direction 331. -20. 0.
+camera-move 57.06175951108622. 212.05370099378553. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 332 -20 0
-camera-move 53.29589226009159 205.0757558616625 200
+camera-direction 332. -20. 0.
+camera-move 53.29589226009159. 205.0757558616625. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 333 -20 0
-camera-move 49.65074243606284 198.03500788211196 200
+camera-direction 333. -20. 0.
+camera-move 49.65074243606284. 198.03500788211196. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 334 -20 0
-camera-move 46.12741926146401 190.93361322917562 200
+camera-direction 334. -20. 0.
+camera-move 46.12741926146401. 190.93361322917562. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 335 -20 0
-camera-move 42.72699488679581 183.77374664946265 200
+camera-direction 335. -20. 0.
+camera-move 42.72699488679581. 183.77374664946265. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 336 -20 0
-camera-move 39.450504064341544 176.55760079615462 200
+camera-direction 336. -20. 0.
+camera-move 39.450504064341544. 176.55760079615462. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 337 -20 0
-camera-move 36.298943833289286 169.2873855575189 200
+camera-direction 337. -20. 0.
+camera-move 36.298943833289286. 169.2873855575189. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 338 -20 0
-camera-move 33.27327321633305 161.9653273801518 200
+camera-direction 338. -20. 0.
+camera-move 33.27327321633305. 161.9653273801518. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 339 -20 0
-camera-move 30.37441292784007 154.59366858714336 200
+camera-direction 339. -20. 0.
+camera-move 30.37441292784007. 154.59366858714336. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 340 -20 0
-camera-move 27.603245093678026 147.1746666913833 200
+camera-direction 340. -20. 0.
+camera-move 27.603245093678026. 147.1746666913833. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 341 -20 0
-camera-move 24.960612982782607 139.71059370421915 200
+camera-direction 341. -20. 0.
+camera-move 24.960612982782607. 139.71059370421915. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 342 -20 0
-camera-move 22.44732075054958 132.2037354396654 200
+camera-direction 342. -20. 0.
+camera-move 22.44732075054958. 132.2037354396654. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 343 -20 0
-camera-move 20.06413319413025 124.65639081439433 200
+camera-direction 343. -20. 0.
+camera-move 20.06413319413025. 124.65639081439433. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 344 -20 0
-camera-move 17.81177551970245 117.070871143711 200
+camera-direction 344. -20. 0.
+camera-move 17.81177551970245. 117.070871143711. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 345 -20 0
-camera-move 15.690933121790579 109.44949943372747 200
+camera-direction 345. -20. 0.
+camera-move 15.690933121790579. 109.44949943372747. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 346 -20 0
-camera-move 13.70225137469771 101.7946096699645 200
+camera-direction 346. -20. 0.
+camera-move 13.70225137469771. 101.7946096699645. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 347 -20 0
-camera-move 11.846335436119432 94.10854610258296 200
+camera-direction 347. -20. 0.
+camera-move 11.846335436119432. 94.10854610258296. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 348 -20 0
-camera-move 10.123750062992826 86.39366252847977 200
+camera-direction 348. -20. 0.
+camera-move 10.123750062992826. 86.39366252847977. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 349 -20 0
-camera-move 8.535019439640223 78.65232157045203 200
+camera-direction 349. -20. 0.
+camera-move 8.535019439640223. 78.65232157045203. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 350 -20 0
-camera-move 7.080627018260259 70.88689395366436 200
+camera-direction 350. -20. 0.
+camera-move 7.080627018260259. 70.88689395366436. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 351 -20 0
-camera-move 5.761015371811936 63.099757779632725 200
+camera-direction 351. -20. 0.
+camera-move 5.761015371811936. 63.099757779632725. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 352 -20 0
-camera-move 4.576586059340173 55.293297797947524 200
+camera-direction 352. -20. 0.
+camera-move 4.576586059340173. 55.293297797947524. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 353 -20 0
-camera-move 3.5276995037802976 47.46990467596655 200
+camera-direction 353. -20. 0.
+camera-move 3.5276995037802976. 47.46990467596655. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 354 -20 0
-camera-move 2.6146748822815766 39.631974266688346 200
+camera-direction 354. -20. 0.
+camera-move 2.6146748822815766. 39.631974266688346. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 355 -20 0
-camera-move 1.8377900290809066 31.781906875040807 200
+camera-direction 355. -20. 0.
+camera-move 1.8377900290809066. 31.781906875040807. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 356 -20 0
-camera-move 1.1972813509577804 23.922106522810655 200
+camera-direction 356. -20. 0.
+camera-move 1.1972813509577804. 23.922106522810655. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 357 -20 0
-camera-move 0.6933437552955297 16.054980212424915 200
+camera-direction 357. -20. 0.
+camera-move 0.6933437552955297. 16.054980212424915. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 358 -20 0
-camera-move 0.32613059077061735 8.182937189829234 200
+camera-direction 358. -20. 0.
+camera-move 0.32613059077061735. 8.182937189829234. 200.
+sky-color 0.2 0.8 1
 render
-camera-direction 359 -20 0
-camera-move 0.0957536006887949 0.3083882066751475 200
+camera-direction 359. -20. 0.
+camera-move 0.0957536006887949. 0.3083882066751475. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 360. -20. 0.
+camera-move 0.0022828889811421504. -7.56625521795737. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 361. -20. 0.
+camera-move 0.045746898871811936. -15.438581536064385. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 362. -20. 0.
+camera-move 0.2261324042223123. -23.30617990923972. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 363. -20. 0.
+camera-move 0.5433845135565321. -31.166640946970993. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 364. -20. 0.
+camera-move 0.9974066867641227. -39.0175574445002. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 365. -20. 0.
+camera-move 1.5880607644777456. -46.8565251200114. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 366. -20. 0.
+camera-move 2.3151670101151467. -54.68114335091918. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 367. -20. 0.
+camera-move 3.178504164573269. -62.48901590904621. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 368. -20. 0.
+camera-move 4.177809513557122. -70.27775169444536. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 369. -20. 0.
+camera-move 5.312778967524821. -78.04496546765539. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 370. -20. 0.
+camera-move 6.583067154221453. -85.78827858016547. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 371. -20. 0.
+camera-move 7.988287523776762. -93.50531970285331. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 372. -20. 0.
+camera-move 9.52801246633237. -101.19372555219017. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 373. -20. 0.
+camera-move 11.201773442163699. -108.8511416139736. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 374. -20. 0.
+camera-move 13.009061124257755. -116.47522286438293. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 375. -20. 0.
+camera-move 14.949325553300753. -124.0636344881226. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 376. -20. 0.
+camera-move 17.021976305032297. -131.61405259344096. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 377. -20. 0.
+camera-move 19.22638266991089. -139.1241649238061. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 378. -20. 0.
+camera-move 21.561873845040907. -146.59167156601225. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 379. -20. 0.
+camera-move 24.027739138296965. -154.01428565451386. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 380. -20. 0.
+camera-move 26.62322818458938. -161.38973407176016. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 381. -20. 0.
+camera-move 29.347551174200248. -168.71575814431606. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 382. -20. 0.
+camera-move 32.1998790931234. -175.9901143345682. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 383. -20. 0.
+camera-move 35.17934397533503. -183.21057492778738. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 384. -20. 0.
+camera-move 38.28503916691477. -190.37492871434858. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 385. -20. 0.
+camera-move 41.51601960194324. -197.48098166690002. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 386. -20. 0.
+camera-move 44.8713020900845. -204.52655761226288. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 387. -20. 0.
+camera-move 48.34986561577438. -211.50949889787086. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 388. -20. 0.
+camera-move 51.950651648913436. -218.4276670525306. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 389. -20. 0.
+camera-move 55.672564466981214. -225.27894344131494. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 390. -20. 0.
+camera-move 59.5144714884637. -232.06122991437817. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 391. -20. 0.
+camera-move 63.47520361750048. -238.77244944949467. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 392. -20. 0.
+camera-move 67.55355559964084. -245.41054678813558. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 393. -20. 0.
+camera-move 71.74828638860328. -251.9734890648721. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 394. -20. 0.
+camera-move 76.05811952392907. -258.45926642992487. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 395. -20. 0.
+camera-move 80.48174351940759. -264.86589266466757. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 396. -20. 0.
+camera-move 85.01781226216531. -271.1914057898872. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 397. -20. 0.
+camera-move 89.66494542228736. -277.43386866662837. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 398. -20. 0.
+camera-move 94.42172887285363. -283.59136958942304. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 399. -20. 0.
+camera-move 99.2867151202608. -289.66202287173917. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 400. -20. 0.
+camera-move 104.2584237446925. -295.6439694234551. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 401. -20. 0.
+camera-move 109.33534185061569. -301.53537732019214. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 402. -20. 0.
+camera-move 114.51592452715329. -307.334442364328. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 403. -20. 0.
+camera-move 119.79859531820563. -313.0393886375159. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 404. -20. 0.
+camera-move 125.18174670216325. -318.6484690445474. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 405. -20. 0.
+camera-move 130.66374058108073. -324.1599658483876. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 406. -20. 0.
+camera-move 136.24290877914922. -329.5721911962154. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 407. -20. 0.
+camera-move 141.91755355032427. -334.88348763631876. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 408. -20. 0.
+camera-move 147.6859480949538. -340.0922286256744. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 409. -20. 0.
+camera-move 153.54633708524074. -345.19681902806343. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 410. -20. 0.
+camera-move 159.4969371993946. -350.1956956025717. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 411. -20. 0.
+camera-move 165.5359376642951. -355.0873274823173. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 412. -20. 0.
+camera-move 171.66150080651533. -359.8702166432692. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 413. -20. 0.
+camera-move 177.8717626115241. -364.5428983630026. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 414. -20. 0.
+camera-move 184.16483329090863. -369.1039416692612. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 415. -20. 0.
+camera-move 190.53879785744044. -373.5519497781806. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 416. -20. 0.
+camera-move 196.99171670780447. -377.88556052204075. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 417. -20. 0.
+camera-move 203.5216262128265. -382.10344676642217. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 418. -20. 0.
+camera-move 210.12653931500247. -386.2043168166281. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 419. -20. 0.
+camera-move 216.804446133166. -390.18691481325607. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 420. -20. 0.
+camera-move 223.55331457409383. -394.05002111679704. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 421. -20. 0.
+camera-move 230.3710909508775. -397.7924526811378. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 422. -20. 0.
+camera-move 237.25570060785788. -401.41306341586204. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 423. -20. 0.
+camera-move 244.20504855194727. -404.91074453722916. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 424. -20. 0.
+camera-move 251.2170200901383. -408.2844249077328. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 425. -20. 0.
+camera-move 258.28948147300423. -411.53307136412695. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 426. -20. 0.
+camera-move 265.4202805440052. -414.6556890338246. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 427. -20. 0.
+camera-move 272.6072473943862. -417.65132163957026. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 428. -20. 0.
+camera-move 279.848195023487. -420.5190517922907. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 429. -20. 0.
+camera-move 287.14092000424444. -423.25800127204013. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 430. -20. 0.
+camera-move 294.48320315370216. -425.8673312969474. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 431. -20. 0.
+camera-move 301.8728102083048. -428.34624278008556. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 432. -20. 0.
+camera-move 309.3074925037894. -430.6939765741876. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 433. -20. 0.
+camera-move 316.7849876594564. -432.90981370412834. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 434. -20. 0.
+camera-move 324.30302026661184. -434.9930755871045. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 435. -20. 0.
+camera-move 331.85930258097983. -436.9431242404469. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 436. -20. 0.
+camera-move 339.45153521886107. -438.7593624769962. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 437. -20. 0.
+camera-move 347.07740785684115. -440.4412340879879. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 438. -20. 0.
+camera-move 354.73459993482106. -441.9882240133858. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 439. -20. 0.
+camera-move 362.4207813621684. -443.39985849961596. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 440. -20. 0.
+camera-move 370.13361322676485. -444.67570524465015. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 441. -20. 0.
+camera-move 377.8707485067381. -445.8153735303941. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 442. -20. 0.
+camera-move 385.62983278466635. -446.8185143423426. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 443. -20. 0.
+camera-move 393.40850496402504. -447.6848204764623. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 444. -20. 0.
+camera-move 401.20439798767495. -448.4140266332702. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 445. -20. 0.
+camera-move 409.01513955815597. -449.00590949908025. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 446. -20. 0.
+camera-move 416.8383528595843. -449.46028781439065. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 447. -20. 0.
+camera-move 424.6716572809144. -449.7770224293937. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 448. -20. 0.
+camera-move 432.5126691403642. -449.95601634658885. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 449. -20. 0.
+camera-move 440.35900241077206. -449.99721475048807. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 450. -20. 0.
+camera-move 448.20826944566414. -449.9006050244021. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 451. -20. 0.
+camera-move 456.0580817058222. -449.66621675430457. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 452. -20. 0.
+camera-move 463.9060504861126. -449.2941217197711. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 453. -20. 0.
+camera-move 471.7497876423763. -448.7844338719981. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 454. -20. 0.
+camera-move 479.5869063181395. -448.1373092989053. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 455. -20. 0.
+camera-move 487.41502167094075. -447.3529461773353. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 456. -20. 0.
+camera-move 495.2317515980359. -446.4315847123641. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 457. -20. 0.
+camera-move 503.0347174612766. -445.373507063739. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 458. -20. 0.
+camera-move 510.8215448109332. -444.1790372594704. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 459. -20. 0.
+camera-move 518.5898641082385. -442.84854109660046. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 460. -20. 0.
+camera-move 526.3373114464458. -441.3824260291798. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 461. -20. 0.
+camera-move 534.0615292701615. -439.7811410434898. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 462. -20. 0.
+camera-move 541.7601670927578. -438.04517652054176. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 463. -20. 0.
+camera-move 549.4308822116228. -436.17506408590305. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 464. -20. 0.
+camera-move 557.07134042105. -434.1713764468911. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 465. -20. 0.
+camera-move 564.679216722538. -432.0347272171847. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 466. -20. 0.
+camera-move 572.2521960322897. -429.76577072891115. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 467. -20. 0.
+camera-move 579.7879738856972. -427.3652018322617. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 468. -20. 0.
+camera-move 587.2842571385869. -424.83375568269884. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 469. -20. 0.
+camera-move 594.738764665032. -422.1722075158209. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 470. -20. 0.
+camera-move 602.1492280514947. -419.3813724099521. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 471. -20. 0.
+camera-move 609.5133922871125. -416.4621050365315. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 472. -20. 0.
+camera-move 616.8290164498958. -413.41529939837613. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 473. -20. 0.
+camera-move 624.093874388644. -410.2418885558998. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 474. -20. 0.
+camera-move 631.305755400366. -406.94284434137063. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 475. -20. 0.
+camera-move 638.4624649029977. -403.51917706129507. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 476. -20. 0.
+camera-move 645.5618251032182. -399.9719351870195. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 477. -20. 0.
+camera-move 652.6016756591499. -396.30220503364365. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 478. -20. 0.
+camera-move 659.5798743377576. -392.51111042734567. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 479. -20. 0.
+camera-move 666.4942976667272. -388.59981236121877. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 480. -20. 0.
+camera-move 673.3428415806429. -384.56950863972617. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 481. -20. 0.
+camera-move 680.1234220612575. -380.42143351188366. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 482. -20. 0.
+camera-move 686.8339757716576. -376.15685729327765. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 483. -20. 0.
+camera-move 693.4724606841413. -371.77708597704594. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 484. -20. 0.
+camera-move 700.036856701608. -367.28346083392324. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 485. -20. 0.
+camera-move 706.5251662722783. -362.6773580014875. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 486. -20. 0.
+camera-move 712.9354149975466. -357.9601880627333. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 487. -20. 0.
+camera-move 719.2656522327967. -353.1333956140851. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 488. -20. 0.
+camera-move 725.5139516809818. -348.1984588230055. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 489. -20. 0.
+camera-move 731.6784119787986. -343.15688897531857. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 490. -20. 0.
+camera-move 737.7571572752775. -338.0102300123853. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 491. -20. 0.
+camera-move 743.7483378026002. -332.76005805828896. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 492. -20. 0.
+camera-move 749.650130438991. -327.4079809371569. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 493. -20. 0.
+camera-move 755.4607392634905. -321.95563768077733. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 494. -20. 0.
+camera-move 761.1783961024582. -316.40469802665876. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 495. -20. 0.
+camera-move 766.8013610676282. -310.75686190668597. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 496. -20. 0.
+camera-move 772.3279230855611. -305.01385892652905. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 497. -20. 0.
+camera-move 777.7564004183216. -299.17744783596515. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 498. -20. 0.
+camera-move 783.0851411752353. -293.24941599027534. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 499. -20. 0.
+camera-move 788.3125238155613. -287.23157880288073. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 500. -20. 0.
+camera-move 793.4369576419256. -281.1257791893866. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 501. -20. 0.
+camera-move 798.456883284375. -274.9338870032035. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 502. -20. 0.
+camera-move 803.3707731748925. -268.65779846291974. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 503. -20. 0.
+camera-move 808.1771320122385. -262.2994355715988. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 504. -20. 0.
+camera-move 812.8744972169727. -255.86074552818133. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 505. -20. 0.
+camera-move 817.4614393765174. -249.34370013117044. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 506. -20. 0.
+camera-move 821.9365626801311. -242.75029517478444. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 507. -20. 0.
+camera-move 826.2985053436519. -236.08254983775734. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 508. -20. 0.
+camera-move 830.5459400238927. -229.34250606498767. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 509. -20. 0.
+camera-move 834.6775742225507. -222.5322279422029. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 510. -20. 0.
+camera-move 838.6921506795177. -215.65380106384907. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 511. -20. 0.
+camera-move 842.5884477554637. -208.70933189440098. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 512. -20. 0.
+camera-move 846.3652798035841. -201.70094712326392. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 513. -20. 0.
+camera-move 850.0214975303929. -194.63079301349876. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 514. -20. 0.
+camera-move 853.5559883454533. -187.50103474454582. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 515. -20. 0.
+camera-move 856.9676766999412. -180.31385574914881. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 516. -20. 0.
+camera-move 860.2555244139335. -173.0714570447032. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 517. -20. 0.
+camera-move 863.41853099233. -165.776056559208. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 518. -20. 0.
+camera-move 866.4557339293024. -158.4298884520434. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 519. -20. 0.
+camera-move 869.3662090011878. -151.03520242977692. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 520. -20. 0.
+camera-move 872.149070547729. -143.59426305720845. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 521. -20. 0.
+camera-move 874.8034717415835. -136.10934906386484. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 522. -20. 0.
+camera-move 877.328604846012. -128.58275264615696. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 523. -20. 0.
+camera-move 879.7237014606749. -121.01677876541224. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 524. -20. 0.
+camera-move 881.9880327554572. -113.41374444199846. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 525. -20. 0.
+camera-move 884.1209096922507. -105.77597804575436. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 526. -20. 0.
+camera-move 886.1216832346308. -98.10581858294444. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 527. -20. 0.
+camera-move 887.9897445453574. -90.40561497995672. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 528. -20. 0.
+camera-move 889.724525171646. -82.67772536396235. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 529. -20. 0.
+camera-move 891.3254972181469. -74.92451634075752. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 530. -20. 0.
+camera-move 892.7921735075852. -67.14836227000903. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 531. -20. 0.
+camera-move 894.1241077290097. -59.35164453812597. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 532. -20. 0.
+camera-move 895.3208945736039. -51.53675082897469. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 533. -20. 0.
+camera-move 896.3821698580248. -43.70607439267736. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 534. -20. 0.
+camera-move 897.307610635221. -35.86201331269054. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 535. -20. 0.
+camera-move 898.0969352927082. -28.00696977141099. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 536. -20. 0.
+camera-move 898.7499036382626. -20.143349314533925. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 537. -20. 0.
+camera-move 899.2663169730129. -12.273560114362361. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 538. -20. 0.
+camera-move 899.6460181519035. -4.4000122323311395. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 539. -20. 0.
+camera-move 899.8888916315144. 3.474883119055569. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 540. -20. 0.
+camera-move 899.9948635052211. 11.348714314646424. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 541. -20. 0.
+camera-move 899.9639015256845. 19.21907005517629. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 542. -20. 0.
+camera-move 899.7960151146635. 27.083540105711766. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 543. -20. 0.
+camera-move 899.4912553601482. 34.93971603376603. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 544. -20. 0.
+camera-move 899.0497150008141. 42.785191946862426. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 545. -20. 0.
+camera-move 898.4715283978007. 50.61756522932028. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 546. -20. 0.
+camera-move 897.7568714938263. 58.43443727803711. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 547. -20. 0.
+camera-move 896.905961759648. 66.23341423704214. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 548. -20. 0.
+camera-move 895.9190581278849. 74.01210773059594. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 549. -20. 0.
+camera-move 894.7964609142251. 81.76813559461185. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 550. -20. 0.
+camera-move 893.5385117260394. 89.49912260617512. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 551. -20. 0.
+camera-move 892.145593358429. 97.20270121093634. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 552. -20. 0.
+camera-move 890.6181296777423. 104.87651224815649. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 553. -20. 0.
+camera-move 888.9565854925901. 112.5182056731814. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 554. -20. 0.
+camera-move 887.1614664124047. 120.12544127712468. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 555. -20. 0.
+camera-move 885.2333186935834. 127.69588940353829. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 556. -20. 0.
+camera-move 883.1727290732604. 135.22723166185096. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 557. -20. 0.
+camera-move 880.9803245907635. 142.71716163736085. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 558. -20. 0.
+camera-move 878.6567723968044. 150.16338559754954. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 559. -20. 0.
+camera-move 876.2027795504656. 157.5636231945265. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 560. -20. 0.
+camera-move 873.6190928040403. 164.91560816336778. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 561. -20. 0.
+camera-move 870.9064983757958. 172.21708901613442. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 562. -20. 0.
+camera-move 868.0658217107253. 179.46582973138348. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 563. -20. 0.
+camera-move 865.0979272293664. 186.6596104389247. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 564. -20. 0.
+camera-move 862.0037180647553. 193.79622809963845. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 565. -20. 0.
+camera-move 858.7841357876027. 200.87349718014588. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 566. -20. 0.
+camera-move 855.4401601197744. 207.88925032210392. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 567. -20. 0.
+camera-move 851.9728086361591. 214.8413390059457. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 568. -20. 0.
+camera-move 848.383136455021. 221.7276342088471. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 569. -20. 0.
+camera-move 844.6722359169256. 228.54602705672326. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 570. -20. 0.
+camera-move 840.8412362523395. 235.29442947005487. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 571. -20. 0.
+camera-move 836.8913032380049. 241.97077480334613. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 572. -20. 0.
+camera-move 832.8236388421913. 248.57301847801898. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 573. -20. 0.
+camera-move 828.6394808589381. 255.09913860854888. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 574. -20. 0.
+camera-move 824.3401025313894. 261.547136621652. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 575. -20. 0.
+camera-move 819.9268121643483. 267.91503786833226. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 576. -20. 0.
+camera-move 815.4009527261553. 274.20089222860236. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 577. -20. 0.
+camera-move 810.7639014400247. 280.4027747086926. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 578. -20. 0.
+camera-move 806.0170693649525. 286.5187860305654. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 579. -20. 0.
+camera-move 801.1619009663301. 292.5470532135542. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 580. -20. 0.
+camera-move 796.1998736763933. 298.4857301479491. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 581. -20. 0.
+camera-move 791.1324974446356. 304.3329981603532. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 582. -20. 0.
+camera-move 785.9613142783331. 310.0870665706398. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 583. -20. 0.
+camera-move 780.6878977733058. 315.74617324032846. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 584. -20. 0.
+camera-move 775.3138526350759. 321.30858511223124. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 585. -20. 0.
+camera-move 769.840814190549. 326.7725987411882. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 586. -20. 0.
+camera-move 764.2704478903873. 332.13654081572815. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 587. -20. 0.
+camera-move 758.6044488022096. 337.39876867051515. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 588. -20. 0.
+camera-move 752.8445410947788. 342.55767078939664. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 589. -20. 0.
+camera-move 746.9924775133389. 347.6116672989174. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 590. -20. 0.
+camera-move 741.0500388462517. 352.55921045214836. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 591. -20. 0.
+camera-move 735.0190333831013. 357.39878510266664. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 592. -20. 0.
+camera-move 728.9012963644277. 362.1289091685602. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 593. -20. 0.
+camera-move 722.6986894232667. 366.74813408630285. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 594. -20. 0.
+camera-move 716.4131000186471. 371.255045254366. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 595. -20. 0.
+camera-move 710.0464408612397. 375.6482624664289. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 596. -20. 0.
+camera-move 703.6006493313166. 379.9264403340564. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 597. -20. 0.
+camera-move 697.0776868892019. 384.0882686987133. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 598. -20. 0.
+camera-move 690.4795384784015. 388.13247303299045. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 599. -20. 0.
+camera-move 683.8082119215808. 392.05781483091863. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 600. -20. 0.
+camera-move 677.0657373095829. 395.8630919872515. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 601. -20. 0.
+camera-move 670.2541663836682. 399.54713916560075. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 602. -20. 0.
+camera-move 663.3755719111723. 403.1088281553113. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 603. -20. 0.
+camera-move 656.4320470547549. 406.54706821696703. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 604. -20. 0.
+camera-move 649.4257047354536. 409.8608064164212. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 605. -20. 0.
+camera-move 642.3586769897183. 413.0490279472494. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 606. -20. 0.
+camera-move 635.2331143206284. 416.1107564415256. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 607. -20. 0.
+camera-move 628.0511850434962. 419.0450542688288. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 608. -20. 0.
+camera-move 620.8150746260446. 421.851022823382. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 609. -20. 0.
+camera-move 613.5269850233685. 424.52780279924593. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 610. -20. 0.
+camera-move 606.1891340078744. 427.0745744534746. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 611. -20. 0.
+camera-move 598.8037544944159. 429.4905578571527. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 612. -20. 0.
+camera-move 591.3730938608094. 431.775013134246. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 613. -20. 0.
+camera-move 583.8994132639604. 433.92724068818063. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 614. -20. 0.
+camera-move 576.384986951789. 435.9465814160885. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 615. -20. 0.
+camera-move 568.8321015711718. 437.8324169106549. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 616. -20. 0.
+camera-move 561.2430554721182. 439.58416964949845. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 617. -20. 0.
+camera-move 553.620158008376. 441.20130317203405. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 618. -20. 0.
+camera-move 545.9657288346965. 442.6833222437594. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 619. -20. 0.
+camera-move 538.2820972009563. 444.02977300791673. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 620. -20. 0.
+camera-move 530.5716012433704. 445.240243124483. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 621. -20. 0.
+camera-move 522.8365872729921. 446.3143618964456. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 622. -20. 0.
+camera-move 515.0794090617267. 447.2518003833256. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 623. -20. 0.
+camera-move 507.30242712608117. 448.0522715019131. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 624. -20. 0.
+camera-move 499.50800800885145. 448.7155301141843. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 625. -20. 0.
+camera-move 491.69852355898604. 449.2413731023729. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 626. -20. 0.
+camera-move 483.87635020982736. 449.6296394311737. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 627. -20. 0.
+camera-move 476.0438682559625. 449.8802101970581. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 628. -20. 0.
+camera-move 468.20346112889405. 449.99300866468724. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 629. -20. 0.
+camera-move 460.3575146717645. 449.9680002904122. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 630. -20. 0.
+camera-move 452.50841641333966. 449.805192732852. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 631. -20. 0.
+camera-move 444.658554841479. 449.5046358505488. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 632. -20. 0.
+camera-move 436.810318676322. 449.0664216866986. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 633. -20. 0.
+camera-move 428.9660961433925. 448.49068444096434. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 634. -20. 0.
+camera-move 421.1282742468646. 447.77760042837775. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 635. -20. 0.
+camera-move 413.29923804319253. 446.9273880253441. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 636. -20. 0.
+camera-move 405.4813699153341. 445.94030760276735. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 637. -20. 0.
+camera-move 397.6770488477935. 444.81666144631185. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 638. -20. 0.
+camera-move 389.88864970269117. 443.5567936638309. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 639. -20. 0.
+camera-move 382.1185424970925. 442.16109007998665. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 640. -20. 0.
+camera-move 374.3690916818066. 440.6299781180928. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 641. -20. 0.
+camera-move 366.64265542188696. 438.96392666922117. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 642. -20. 0.
+camera-move 358.9415848790334. 437.1634459486067. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 643. -20. 0.
+camera-move 351.26822349613775. 435.229087339398. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 644. -20. 0.
+camera-move 343.6249062841657. 433.161443223801. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 645. -20. 0.
+camera-move 336.01395911161626. 430.96114680166585. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 646. -20. 0.
+camera-move 328.43769799675465. 428.62887189657516. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 647. -20. 0.
+camera-move 320.8984284028469. 426.1653327494903. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 648. -20. 0.
+camera-move 313.39844453660544. 423.5712838000208. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 649. -20. 0.
+camera-move 305.9400286500574. 420.8475194553833. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 650. -20. 0.
+camera-move 298.52545034605805. 417.9948738471201. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 651. -20. 0.
+camera-move 291.1569658876429. 415.0142205756535. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 652. -20. 0.
+camera-move 283.83681751145053. 411.90647244275243. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 653. -20. 0.
+camera-move 276.56723274540195. 408.67258117199265. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 654. -20. 0.
+camera-move 269.35042373086725. 405.31353711730094. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 655. -20. 0.
+camera-move 262.1885865495055. 401.8303689596664. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 656. -20. 0.
+camera-move 255.0839005549963. 398.2241433921137. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 657. -20. 0.
+camera-move 248.0385277098608. 394.4959647930382. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 658. -20. 0.
+camera-move 241.0546119275726. 390.64697488799686. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 659. -20. 0.
+camera-move 234.1342784201635. 386.67835240006605. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 660. -20. 0.
+camera-move 227.2796330515244. 382.59131268886483. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 661. -20. 0.
+camera-move 220.4927616965806. 378.38710737836254. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 662. -20. 0.
+camera-move 213.77572960656252. 374.06702397357685. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 663. -20. 0.
+camera-move 207.1305807805515. 369.6323854662853. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 664. -20. 0.
+camera-move 200.5593373434806. 365.08454992987146. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 665. -20. 0.
+camera-move 194.06399893080794. 360.42491010342394. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 666. -20. 0.
+camera-move 187.64654208001917. 355.6548929652208. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 667. -20. 0.
+camera-move 181.3089196291732. 350.7759592957318. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 668. -20. 0.
+camera-move 175.05306012264333. 345.7896032302581. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 669. -20. 0.
+camera-move 168.88086722426328. 340.69735180137485. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 670. -20. 0.
+camera-move 162.7942191380443. 335.50076447128237. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 671. -20. 0.
+camera-move 156.7949680366283. 330.20143265423565. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 672. -20. 0.
+camera-move 150.88493949767468. 324.80097922918634. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 673. -20. 0.
+camera-move 145.06593194833556. 319.30105804278594. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 674. -20. 0.
+camera-move 139.33971611799132. 313.703353402914. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 675. -20. 0.
+camera-move 133.70803449941684. 308.009579562866. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 676. -20. 0.
+camera-move 128.17260081853777. 302.2214801963798. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 677. -20. 0.
+camera-move 122.73509951294284. 296.340827863649. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 678. -20. 0.
+camera-move 117.39718521931161. 290.3694234684881. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 679. -20. 0.
+camera-move 112.16048226990051. 284.3090957068225. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 680. -20. 0.
+camera-move 107.02658419826025. 278.161700506665. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 681. -20. 0.
+camera-move 101.99705325432558. 271.9291204597488. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 682. -20. 0.
+camera-move 97.07341992901365. 265.61326424500226. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 683. -20. 0.
+camera-move 92.25718248850126. 259.21606604402706. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 684. -20. 0.
+camera-move 87.54980651829578. 252.73948494877456. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 685. -20. 0.
+camera-move 82.95272447726029. 246.18550436158554. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 686. -20. 0.
+camera-move 78.46733526171283. 239.55613138779253. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 687. -20. 0.
+camera-move 74.09500377973978. 232.8533962210556. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 688. -20. 0.
+camera-move 69.83706053585746. 226.07935152163188. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 689. -20. 0.
+camera-move 65.69480122613317. 219.23607178776746. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 690. -20. 0.
+camera-move 61.66948634390661. 212.32565272039605. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 691. -20. 0.
+camera-move 57.76234079621946. 205.3502105813467. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 692. -20. 0.
+camera-move 53.974553531077845. 198.3118815452595. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 693. -20. 0.
+camera-move 50.3072771756494. 191.21282104538824. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 694. -20. 0.
+camera-move 46.76162768552189. 184.05520311352993. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 695. -20. 0.
+camera-move 43.338684005115226. 176.84121971423377. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 696. -20. 0.
+camera-move 40.03948773935815. 169.57308007353373. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 697. -20. 0.
+camera-move 36.86504283672599. 162.25301000239006. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 698. -20. 0.
+camera-move 33.816315283738504. 154.88325121504855. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 699. -20. 0.
+camera-move 30.89423281101176. 147.46606064254036. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 700. -20. 0.
+camera-move 28.09968461094462. 140.0037097415073. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 701. -20. 0.
+camera-move 25.43352106713928. 132.49848379858943. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 702. -20. 0.
+camera-move 22.896553495628837. 124.95268123057417. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 703. -20. 0.
+camera-move 20.489553897992153. 117.36861288052086. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 704. -20. 0.
+camera-move 18.213254726433718. 109.74860131008711. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 705. -20. 0.
+camera-move 16.068348660896447. 102.09498008826236. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 706. -20. 0.
+camera-move 14.055488398281227. 94.41009307672681. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 707. -20. 0.
+camera-move 12.175286453827482. 86.69629371206594. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 708. -20. 0.
+camera-move 10.428314974726277. 78.95594428504505. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 709. -20. 0.
+camera-move 8.815105566014495. 71.1914152171809. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 710. -20. 0.
+camera-move 7.336149128808131. 63.4050843348147. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 711. -20. 0.
+camera-move 5.9918957109187545. 55.59933614092532. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 712. -20. 0.
+camera-move 4.782754369905149. 47.77656108488992. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 713. -20. 0.
+camera-move 3.7090930485958324. 39.93915483042759. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 714. -20. 0.
+camera-move 2.7712384631242912. 32.0895175219499. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 715. -20. 0.
+camera-move 1.969476003508305. 24.230053049532373. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 716. -20. 0.
+camera-move 1.304049646805879. 16.36316831274186. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 717. -20. 0.
+camera-move 0.7751618828732489. 8.491272483547172. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 718. -20. 0.
+camera-move 0.38297365274604545. 0.6167762685170344. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 719. -20. 0.
+camera-move 0.12760429966550646. -7.257908829424015. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 720. -20. 0.
+camera-move 0.009131532762069128. -15.130371249511512. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 721. -20. 0.
+camera-move 0.027591403408223414. -22.998200111657916. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 722. -20. 0.
+camera-move 0.1829782942483007. -30.8589859547658. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 723. -20. 0.
+camera-move 0.4752449209077554. -38.710321474610446. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 724. -20. 0.
+camera-move 0.9043023463815416. -46.549802261050004. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 725. -20. 0.
+camera-move 1.4700200080982881. -54.37502753436526. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 726. -20. 0.
+camera-move 2.17222575765021. -62.18360088047567. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 727. -20. 0.
+camera-move 3.010705913178242. -69.97313098482252. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 728. -20. 0.
+camera-move 3.9852053243951104. -77.7412323646933. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 729. -20. 0.
+camera-move 5.095427450228783. -85.48552609975344. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 730. -20. 0.
+camera-move 6.34103444905918. -93.20364056057187. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 731. -20. 0.
+camera-move 7.721647281524213. -100.89321213491802. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 732. -20. 0.
+camera-move 9.236845825861963. -108.55188595159566. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 733. -20. 0.
+camera-move 10.886169005753516. -116.17731660160774. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 734. -20. 0.
+camera-move 12.669114930629917. -123.76716885641474. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 735. -20. 0.
+camera-move 14.585141048396224. -131.31911838308426. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 736. -20. 0.
+camera-move 16.63366431053265. -138.8308524560958. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 737. -20. 0.
+camera-move 18.814061349515896. -146.3000706655988. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 738. -20. 0.
+camera-move 21.125668668509206. -153.72448562189507. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 739. -20. 0.
+camera-move 23.56778284326731. -161.10182365593033. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 740. -20. 0.
+camera-move 26.139660736188034. -168.42982551559052. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 741. -20. 0.
+camera-move 28.840519722449187. -175.70624705758016. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 742. -20. 0.
+camera-move 31.669537928162526. -182.9288599346692. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 743. -20. 0.
+camera-move 34.62585448047099. -190.09545227811802. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 744. -20. 0.
+camera-move 37.70856976951359. -197.2038293750303. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 745. -20. 0.
+camera-move 40.91674572217505. -204.2518143404776. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 746. -20. 0.
+camera-move 44.24940608754565. -211.23724878414902. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 747. -20. 0.
+camera-move 47.705536733993256. -218.15799347134134. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 748. -20. 0.
+camera-move 51.28408595776585. -225.0119289780866. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 749. -20. 0.
+camera-move 54.983964803022616. -231.79695634020175. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 750. -20. 0.
+camera-move 58.80404739320949. -238.51099769608751. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 751. -20. 0.
+camera-move 62.743171273659584. -245.1519969230534. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 752. -20. 0.
+camera-move 66.80013776533326. -251.71792026698932. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 753. -20. 0.
+camera-move 70.9737123295726. -258.2067569651898. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 754. -20. 0.
+camera-move 75.26262494377755. -264.6165198621305. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 755. -20. 0.
+camera-move 79.66557048787297. -270.9452460180196. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 756. -20. 0.
+camera-move 84.18120914145493. -277.19099730993577. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 757. -20. 0.
+camera-move 88.80816679150473. -283.35186102536. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 758. -20. 0.
+camera-move 93.54503545052972. -289.42595044793205. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 759. -20. 0.
+camera-move 98.39037368501454. -295.4114054352387. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 760. -20. 0.
+camera-move 103.34270705405203. -301.3063929884711. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 761. -20. 0.
+camera-move 108.40052855801633. -307.10910781376305. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 762. -20. 0.
+camera-move 113.56229909714637. -312.8177728750516. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 763. -20. 0.
+camera-move 118.82644793988999. -318.43063993827997. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 764. -20. 0.
+camera-move 124.19137320088572. -323.94599010677774. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 765. -20. 0.
+camera-move 129.6554423284137. -329.36213434766205. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 766. -20. 0.
+camera-move 135.21699260118476. -334.6774140090904. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 767. -20. 0.
+camera-move 140.87433163430393. -339.89020132820696. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 768. -20. 0.
+camera-move 146.62573789427154. -344.99889992963983. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 769. -20. 0.
+camera-move 152.4694612228418. -350.00194531436813. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 770. -20. 0.
+camera-move 158.40372336959973. -354.8978053388455. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 771. -20. 0.
+camera-move 164.42671853308406. -359.68498068420394. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 772. -20. 0.
+camera-move 170.53661391029527. -364.36200531540845. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 773. -20. 0.
+camera-move 176.73155025441923. -368.92744693022115. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 774. -20. 0.
+camera-move 183.0096424405932. -373.3799073978282. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 775. -20. 0.
+camera-move 189.3689800395585. -377.71802318701083. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 776. -20. 0.
+camera-move 195.80762789900143. -381.940465783714. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 777. -20. 0.
+camera-move 202.32362673242162. -386.0459420978931. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 778. -20. 0.
+camera-move 208.91499371534624. -390.03319485951494. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 779. -20. 0.
+camera-move 215.57972308870416. -393.9010030035843. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 780. -20. 0.
+camera-move 222.31578676918306. -397.6481820440858. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 781. -20. 0.
+camera-move 229.12113496637295. -401.27358443672546. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 782. -20. 0.
+camera-move 235.99369680652129. -404.7760999303551. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 783. -20. 0.
+camera-move 242.93138096270314. -408.15465590698. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 784. -20. 0.
+camera-move 249.93207629121338. -411.40821771023775. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 785. -20. 0.
+camera-move 256.99365247398447. -414.5357889622551. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 786. -20. 0.
+camera-move 264.113960666853. -417.5364118687796. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 787. -20. 0.
+camera-move 271.2908341534504. -420.4091675124982. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 788. -20. 0.
+camera-move 278.52208900453286. -423.15317613444785. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 789. -20. 0.
+camera-move 285.8055247425617. -425.7675974034343. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 790. -20. 0.
+camera-move 293.13892501130283. -428.25163067337724. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 791. -20. 0.
+camera-move 300.52005825027265. -430.60451522850246. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 792. -20. 0.
+camera-move 307.9466783737955. -432.82553051630333. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 793. -20. 0.
+camera-move 315.41652545449915. -434.9139963682082. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 794. -20. 0.
+camera-move 322.92732641100815. -436.86927320787163. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 795. -20. 0.
+camera-move 330.4767956996405. -438.69076224704366. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 796. -20. 0.
+camera-move 338.0626360099093. -440.3779056689421. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 797. -20. 0.
+camera-move 345.68253896359147. -441.9301867990801. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 798. -20. 0.
+camera-move 353.33418581716836. -443.347130263494. 200.
+sky-color 0.2 0.8 1
+render
+camera-direction 799. -20. 0.
+camera-move 361.01524816742426. -444.62830213432187. 200.
+sky-color 0.2 0.8 1
 render

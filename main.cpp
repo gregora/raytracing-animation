@@ -22,6 +22,8 @@ int main(){
   int width, height, spp;
   string load_path, save_path, script_path;
   bool script_included = false;
+  int startat = 0;
+  int endat = -1;
 
   for(string line : lines){
     vector<string> words = SplitString(line, " ");
@@ -40,6 +42,10 @@ int main(){
     }else if(words[0] == "script"){
       script_path = words[1];
       script_included = true;
+    }else if(words[0] == "start-at"){
+      startat = stoi(words[1]);
+    }else if(words[0] == "end-at"){
+      endat = stoi(words[1]) + 1;
     }
   }
 
@@ -66,7 +72,15 @@ int main(){
 
   int frame_num = 1;
 
-  for(int i = 0; i < script_lines.size(); i++){
+  if(startat < 0 || startat > script_lines.size()){
+    startat = 0;
+  }
+
+  if(endat < 0 || endat > script_lines.size()){
+    endat = script_lines.size();
+  }
+
+  for(int i = startat; i < endat; i++){
 
     vector<string> command = SplitString(script_lines[i], " ");
 

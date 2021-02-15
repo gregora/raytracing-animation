@@ -2,7 +2,6 @@ import math
 
 
 f = open("script2.txt", "w")
-f.write("sky-color 0.2 0.8 1\n")
 x = y = 0
 z = 200
 pitch = yaw = roll = 0
@@ -14,5 +13,6 @@ for i in range(0, 800):
     yaw = i
     f.write("camera-direction %s. %s. %s.\n" % (yaw, pitch, roll))
     f.write("camera-move %s. %s. %s.\n" % (x, y, z))
+    f.write("sky-color 0.2 0.8 1\n")
     f.write("render\n")
 f.close()

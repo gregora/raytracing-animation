@@ -45,6 +45,8 @@ To create your own animtion, you will need to have a couple of things.
   * spp (optional) - number of samples per pixel. Keep in mind that `spp 3` means that there are 9 samples per pixel (3x3)
   * ambient-light (optional) - How strong should the ambient light be
   * script (optional) - where should the script file be loaded from
+  * start-at (optional) - which command to start on
+  * end-at (optional) - which command to end on
 * Third, you need to have a `script` file. This is the file, that you either input into your `settings` file or when the program starts. The script file supports a couple of different commands:
   * `render` - renders current frame
   * `camera-move x y z` - move camera to a position `x y z`
