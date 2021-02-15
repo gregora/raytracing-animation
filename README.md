@@ -16,6 +16,7 @@ Before you start compiling, make sure you have SDL2 library installed.
 * compile.sh - A Linux shell script that compiles the whole project
 * main.cpp - The file with main function, that then includes everything else
 * README.md - readme file
+* settings/ - a folder with a single file called `settings`, that tell the animation wrapper how to create `Frame` object
 * libraries/ [folder] - a folder in which are all the necessary libraries (except for SDL2). Within this folder there are other folders, with the name of the library used. In each of those folders are then all the necessary .h and .cpp files.
   * lodepng/ [folder] - a folder with all the files necessary to save frames to png images. It was not written by me but you can find it on Github [https://github.com/lvandeve/lodepng](https://github.com/lvandeve/lodepng)
   * raytracing/ [folder] - the folder, in which all the raytracing stuff is. Everything in this folder is my work.
@@ -34,9 +35,24 @@ A scene file can handle three different instructions
 
 ## How to create your own animation
 
+To create your own animtion, you will need to have a couple of things.
+* First, you need to have root scene file. This file can then call other files, if you wish.
+* Second, you need a `settings` file in `/settings/` folder. This file tells my program how to create your `Frame` object. The file enables you to set a couple of things:
+  * width - width of your image(s)
+  * height - height of your image(s)
+  * save - where to save your image(s) to
+  * load - where to load your scene file from
+  * spp (optional) - number of samples per pixel. Keep in mind that `spp 3` means that there are 9 samples per pixel (3x3)
+  * ambient-light (optional) - How strong should the ambient light be
+  * script (optional) - where should the script file be loaded from
+* Third, you need to have a `script` file. This is the file, that you either input into your `settings` file or when the program starts. The script file supports a couple of different commands:
+  * `render` - renders current frame
+  * `camera-move x y z` - move camera to a position `x y z`
+  * `camera-direction yaw pitch roll` - set camera's given yaw/pitch/roll
+  * `sky-color red green blue` - set the sky color
+  * `light-move id x y z` - move a given light source to `x y z`. Keep in mind that `id` is the number of the light source as it was loaded. That means that if your scene files load other light sources, you have to take that into account
 
 
 ## What is the output?
 
 The program outputs a series of png images that can then be combined into an animation
-
