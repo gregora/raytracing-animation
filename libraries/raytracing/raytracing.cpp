@@ -104,10 +104,11 @@ Vector Triangle::Normal(){
 //intersection between the plane of a triangle and the given ray
 float Triangle::GetRayPlaneIntersection(Vector ray, Vector ray_position){
 
-  float rdotn = DotProduct(Normal(), ray);
+  Vector normal = Normal();
+  float rdotn = DotProduct(normal, ray);
 
   if(rdotn == 0) return -1;
-  return DotProduct(Normal(), position - ray_position) / rdotn;
+  return DotProduct(normal, position - ray_position) / rdotn;
 
 }
 
@@ -123,6 +124,7 @@ void Triangle::SetColor(float r, float g, float b){
 float* Triangle::RayHitsTriangle(Vector ray, Vector ray_position){
 
   float k = GetRayPlaneIntersection(ray, ray_position);
+
   float* ret = new float[4];
   ret[0] = 0;
   ret[1] = 0;
@@ -131,9 +133,7 @@ float* Triangle::RayHitsTriangle(Vector ray, Vector ray_position){
 
   if(k > 1 || k < 0) return ret;
 
-  Vector point_of_intersection;
-  point_of_intersection = ray_position + ray*k - position;
-  Vector p = point_of_intersection;
+  Vector p = ray_position + ray*k - position;
 
   float m,n;
 
@@ -735,7 +735,7 @@ void Frame::Load(std::string file, float movex, float movey, float movez){
       float z = std::stof(args[3]);
       float brightness = std::stof(args[4]);
 
-      LightSource* l = new LightSource(x, y, z, brightness);
+      LightSource* l = new LightSource(x + movex, y + movey, z + movez, brightness);
       light_sources.push_back(l);
 
     }
