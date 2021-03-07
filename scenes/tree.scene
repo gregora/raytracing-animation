@@ -1,0 +1,5 @@
+ttr -2.5 2.5 0 2.5 2.5 0 0 0 5 textures/christmas-tree.png 0 3 1000 3 500 1455
+ttr 2.5 2.5 0 2.5 -2.5 0 0 0 5 textures/christmas-tree.png 0 3 1000 3 500 1455
+ttr -2.5 -2.5 0 2.5 -2.5 0 0 0 5 textures/christmas-tree.png 0 3 1000 3 500 1455
+ttr -2.5 2.5 0 -2.5 -2.5 0 0 0 5 textures/christmas-tree.png 0 3 1000 3 500 1455
+ls 0 0 6 0.1
