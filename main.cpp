@@ -3,8 +3,10 @@
 #include "libraries/raytracing/raytracing.h"
 #include <fstream>
 #include <sstream>
+#include <chrono>
 
 using namespace std;
+using namespace chrono;
 
 int main(){
 
@@ -86,8 +88,12 @@ int main(){
 
     if(command[0] == "render"){
       cout << "Rendering frame " + to_string(frame_num) << endl;
+      auto start = high_resolution_clock::now();
       frame.Render();
       frame.SaveAsPng(save_path + to_string(frame_num) + ".png");
+      auto end = high_resolution_clock::now();
+
+      cout << "Finished rendering a frame in " << duration_cast<seconds>(end - start).count() << " seconds" << endl;
       frame_num++;
     }else if(command[0] == "camera-move"){
       frame.camera_position.x = stof(command[1]);
