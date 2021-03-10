@@ -21,6 +21,8 @@ Before you start compiling, make sure you have SDL2 library installed.
   * lodepng/ [folder] - a folder with all the files necessary to save frames to png images. It was not written by me but you can find it on Github [https://github.com/lvandeve/lodepng](https://github.com/lvandeve/lodepng)
   * raytracing/ [folder] - the folder, in which all the raytracing stuff is. Everything in this folder is my work.
   * animation/ [folder] - a folder with all the necessary things for rendering animations.
+* tools/ [folder] - a folder with different tools (like .obj to .scene converter)
+* scripts/ [folder] - a folder with scripts
 
 ## How to create your own scene
 
