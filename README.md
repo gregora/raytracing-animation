@@ -31,6 +31,7 @@ A scene file can handle three different instructions
 * `ttr` - acts similarly to just `tr`, but instead of rgb colors, there has to be a link to a png texture. After that, there should be 6 more floating point numbers, that represent the triangle on the texture itself, from where colors should be sampled. Example: `ttr -200 200 0 200 200 0 0 0 200 textures/obama.png 0 0 1750 0 875 1500`. Reflectiveness argument is also optional.
 * `lo` - load another scene. An example would be `lo 200 0 0 scenes/pyramid.scene`. This tells the parser, to load scene `scenes/pyramid.scene` and move it 200 units in x direction and 0 units in y and z directions. The three numbers can be float numbers as well.
 * `ls` - Add a light source. The following three floats tell its position, and the fourth float tells its brightness. Example: `ls 300 500 20 1`
+* `sky` - Add a skydome. The only argument is the path to the file
 * `#` - Indicates a comment. Any line that does not have `tr`, `lo` or `ls` command in the beginning will be ignored, but I recommend you still use `#` as comments.
 
 ## How to create your own animation
