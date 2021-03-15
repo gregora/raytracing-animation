@@ -3,6 +3,5 @@ lo 500 0 0 scenes/pyramid.scene
 lo 500 -300 0 scenes/pyramid.scene
 lo 500 300 0 scenes/house.scene
 lo 800 0 0 scenes/mirror.scene
-sky textures/skydome.png
 ls 0 0 1 1
 ls 300 1000 810 1
